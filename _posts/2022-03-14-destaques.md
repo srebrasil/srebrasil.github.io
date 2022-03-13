@@ -1,6 +1,5 @@
-layout: page
+layout: post
 title: "Destaques da Semana"
-permalink: /destaques-14.03.2022/
 
 # :spiral_calendar: | Destaques da Semana | 14.02.2022
 
