@@ -25,12 +25,12 @@ Muitas vezes, para aplicações de missão crítica, alta severidade (sev1) e al
 
 ## **A origem dos objetivos de nível de serviço (SLO)**
 
-🌐 [The origin of Service Level Objectives](https://blog.last9.io/the-origin-of-service-level-objectives/)****por 👱🏼‍♂️ Akshay Chung e Piyush Verma
+🌐 [The origin of Service Level Objectives](https://blog.last9.io/the-origin-of-service-level-objectives/) por 👱🏼‍♂️ Akshay Chung e Piyush Verma
 
 🗣️ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## **Principais "Buzzwords" para profissionais de operações de TI em 2022**
 
-🌐 [Top 10 Tech Buzzwords for IT Operations Teams in 2022](https://www.itprotoday.com/it-operations/top-10-tech-buzzwords-it-operations-teams-2022)****por 👱🏼‍♂️ Christopher Tozzi
+🌐 [Top 10 Tech Buzzwords for IT Operations Teams in 2022](https://www.itprotoday.com/it-operations/top-10-tech-buzzwords-it-operations-teams-2022) por 👱🏼‍♂️ Christopher Tozzi
 
 🗣️ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
