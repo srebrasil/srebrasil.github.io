@@ -20,24 +20,24 @@ Muitas vezes, para aplicações de missão crítica, alta severidade (sev1) e al
 
 ## **Qual importância de renomear o processo de Postmortem?**
 
-🌐 [Renaming SRE outage "post-mortems" for psychological safety](https://five9s.substack.com/p/renaming-sre-outage-post-mortems?utm_source=url&s=r) por 👱🏼‍♂️ Ash P.
+🌐 [Renaming SRE outage "post-mortems" for psychological safety](https://five9s.substack.com/p/renaming-sre-outage-post-mortems?utm_source=url&s=r) por 👱🏼‍♂️ Ash P. (Comentários de :man_technologist: [Ricardo Coelho](https://www.linkedin.com/in/rcsousa))
 
 🗣️ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## **Se SRE é a resposta, qual a pergunta?**
 
-🌐 [Se SRE é a resposta, qual a pergunta?](https://srebrasil.com/2022/03/10/se-sre-e-a-resposta-qual-e-a-pergunta/) por 👱🏼‍♂️ Ricardo Coelho, Alexandre Astolpho, Taiolor Morais e Paulo Henrique Silva
+🌐 [Se SRE é a resposta, qual a pergunta?](https://srebrasil.com/2022/03/10/se-sre-e-a-resposta-qual-e-a-pergunta/) por 👱🏼‍♂️ Ricardo Coelho, Alexandre Astolpho, Taiolor Morais e Paulo Henrique Silva (Comentários de :man_technologist: [Ricardo Coelho](https://www.linkedin.com/in/rcsousa))
 
 🗣️ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## **Principais "Buzzwords" para profissionais de operações de TI em 2022**
 
-🌐 [Top 10 Tech Buzzwords for IT Operations Teams in 2022](https://www.itprotoday.com/it-operations/top-10-tech-buzzwords-it-operations-teams-2022) por 👱🏼‍♂️ Christopher Tozzi
+🌐 [Top 10 Tech Buzzwords for IT Operations Teams in 2022](https://www.itprotoday.com/it-operations/top-10-tech-buzzwords-it-operations-teams-2022) por 👱🏼‍♂️ Christopher Tozzi (Comentários de :man_technologist: [Ricardo Coelho](https://www.linkedin.com/in/rcsousa))
 
 🗣️ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## **2021 SRE Report**
 
-🌐 [2021 SRE Report](https://www.catchpoint.com/asset/sre-report-2021) por 👱🏼‍♂️ Catchpoint
+🌐 [2021 SRE Report](https://www.catchpoint.com/asset/sre-report-2021) por 👱🏼‍♂️ Catchpoint (Comentários de :man_technologist: [Ricardo Coelho](https://www.linkedin.com/in/rcsousa))
 
 🗣️ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
