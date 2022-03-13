@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Destaques da Semana - 14.03.2022"
+title:  "Destaques da Semana | :spiral_calendar: | 14.03.2022"
 date:   2022-03-13 13:28:36 -0300
 categories: update
 ---
