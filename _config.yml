@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Notícias relevantes sobre SRE, DevOps, ITOps, AIOps e Cloud comentadas em Português.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ricardo_c_sousa
+twitter_username: srebrasil
 github_username:  rcsousa
 
 # Build settings
