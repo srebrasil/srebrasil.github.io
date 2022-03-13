@@ -5,7 +5,7 @@ date:   2022-03-13 13:28:36 -0300
 categories: update
 ---
 
-![Destaques](../assets/destaques.gif)
+![Destaques](https://destaque.srebrasil.com/assets/destaques.gif)
 
 # :spiral_calendar: | Destaques da Semana | 14.02.2022
 
