@@ -1,2 +1,10 @@
 remote_theme:: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+repository: "srebrasil/srebrasil.github.io"
+title: "Destaques da Semana"
+subtitle: "Comentados em Português"
+description: "Curadoria de notícias relevantes sobre Cloud, SRE e DevOps"
+url: "https://srebrasil.github.io"
+teaser: "/images/Destaques.gif"
+masthead_title: "Destaques SRE Brasil"
+breadcrumbs: true
