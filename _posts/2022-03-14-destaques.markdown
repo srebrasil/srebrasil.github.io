@@ -5,7 +5,7 @@ date:   2022-03-13 13:28:36 -0300
 categories: update
 ---
 
-<p align="center"><img src="images/Destaques.gif"></p>
+<p align="center"><img src="../../images/Destaques.gif"></p>
 
 # :spiral_calendar: | Destaques da Semana | 14.02.2022
 
