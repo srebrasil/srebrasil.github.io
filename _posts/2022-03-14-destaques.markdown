@@ -16,6 +16,7 @@ categories: update
 🗣️ Apesar de severidade e prioridade serem termos utilizados frequentemente como sinônimos, eles representam aspectos igualmente importantes do processo de resposta de incidentes. Enquanto severidade representa a perspectiva externa, ou seja a amplitude do incidente e quantidade de pessoas (clientes) impactadas, a prioridade representa a perspectiva interna e relevância do incidente para o negócio da empresa.
 
 Muitas vezes, para aplicações de missão crítica, alta severidade (sev1) e alta prioridade (P1) estão conectadas, porém isso nem sempre é verdadeiro. Entender e articular corretamente as perspectivas internas e externas é fundamental para otimização do processo de resposta a incidentes, para  definição da estrutura organizacional, e  o dimensionamento adequado dos times.
+(Comentários de :man_technologist: [Ricardo Coelho](https://www.linkedin.com/in/rcsousa))
 
 ## **Qual importância de renomear o processo de Postmortem?**
 
@@ -25,7 +26,7 @@ Muitas vezes, para aplicações de missão crítica, alta severidade (sev1) e al
 
 ## **Se SRE é a resposta, qual a pergunta?**
 
-🌐 [Se SRE é a resposta, qual a perguna?](https://srebrasil.com/2022/03/10/se-sre-e-a-resposta-qual-e-a-pergunta/) por 👱🏼‍♂️ Ricardo Coelho, Alexandre Astolpho, Taiolor Morais e Paulo Henrique Silva
+🌐 [Se SRE é a resposta, qual a pergunta?](https://srebrasil.com/2022/03/10/se-sre-e-a-resposta-qual-e-a-pergunta/) por 👱🏼‍♂️ Ricardo Coelho, Alexandre Astolpho, Taiolor Morais e Paulo Henrique Silva
 
 🗣️ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
