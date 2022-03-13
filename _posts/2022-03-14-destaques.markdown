@@ -50,8 +50,8 @@ Muitas vezes, para aplicações de missão crítica, alta severidade (sev1) e al
 
 🗣️ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## **{{ post.headline }}**
+## **{{ page.headline }}**
 
-🌐 [{{ post.highlight_title }}]({{ post.highlight_url }}) por 👱🏼‍♂️ {{post.comentario_autor}} (Comentários de :man_technologist: [{{ post.comentado_por }}]({{ post.comentado_por_linkedin }}))
+🌐 [{{ page.highlight_title }}]({{ page.highlight_url }}) por 👱🏼‍♂️ {{page.comentario_autor}} (Comentários de :man_technologist: [{{ page.comentado_por }}]({{ page.comentado_por_linkedin }}))
 
-🗣️ {{ post.comentario }}
+🗣️ {{ page.comentario }}
