@@ -1,5 +1,9 @@
+---
 layout: post
-title: "Destaques da Semana"
+title:  "Destaques da Semana"
+date:   2022-03-14 13:28:36 -0300
+categories: destaques
+---
 
 # :spiral_calendar: | Destaques da Semana | 14.02.2022
 
