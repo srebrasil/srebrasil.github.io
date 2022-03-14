@@ -6,7 +6,9 @@ layout: page
 {% for tag in site.tags %}
 {% assign t = tag | first %}
 {% assign posts = tag | last %}
-# **{{ t }}**
+
+<details>
+<summary># **{{ t }}**</summary>
 
 {% for destaque in site.posts %}
 {% if destaque.tags contains t %}
@@ -19,4 +21,5 @@ layout: page
 
 {% endif %}
 {% endfor %}
+</details>
 {% endfor %}
