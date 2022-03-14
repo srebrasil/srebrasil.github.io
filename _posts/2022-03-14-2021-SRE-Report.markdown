@@ -14,13 +14,3 @@ comentario: |-
 comentado_por: "Ricardo Coelho"
 comentado_por_linkedin: "https://www.linkedin.com/in/rcsousa1"
 ---
-
-<p align="center"><img src="https://destaque.srebrasil.com/assets/destaques.gif"></p>
-
-# :spiral_calendar: | Destaques da Semana | {{ page.tag }}
-
-## **{{ page.headline }}**
-
-🌐 [{{ page.highlight_title }}]({{ page.highlight_url }}) por 👱🏼‍♂️ {{page.highlight_autor}} (Comentários de :man_technologist: [{{ page.comentado_por }}]({{ page.comentado_por_linkedin }}))
-
-🗣️ {{ page.comentario }}
