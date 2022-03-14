@@ -5,6 +5,7 @@ date:   2022-03-13 13:28:36 -0300
 categories: update
 published: true
 release: "14.03.2022"
+tag: "Edição #1 - 14.03.2022"
 headline: "A importância de determinar a Severidade e a Prioridade dos incidentes"
 highlight_title: "Incident severity and priority 101"
 highlight_url: "https://firehydrant.io/blog/incident-severity-and-priority-101"
