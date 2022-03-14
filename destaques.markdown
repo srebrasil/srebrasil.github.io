@@ -6,7 +6,7 @@ layout: page
 {% for tag in site.tags %}
 {% assign t = tag | first %}
 {% assign posts = tag | last %}
-{{ t | downcase }}
+# **{{ t }}**
 
 {% for destaque in site.posts %}
 {% if destaque.tags contains t %}
