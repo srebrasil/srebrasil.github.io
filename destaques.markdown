@@ -7,10 +7,7 @@ layout: page
 
 ## **{{ destaque.headline }}**
 
-🌐 [{{ destaque.highlight_title }}]({{ destaque.highlight_url }})
-\n👱🏼‍♂️ De:{{destaque.highlight_autor}}
-\n:man_technologist: Comentários de [{{ destaque.comentado_por }}]({{ destaque.comentado_por_linkedin }}))
-\n:spiral_calendar: release: {{ destaque.release }}
+🌐 [{{ destaque.highlight_title }}]({{ destaque.highlight_url }}) por 👱🏼‍♂️ {{page.highlight_autor}} (Comentários de :man_technologist: [{{ page.comentado_por }}]({{ page.comentado_por_linkedin }}))
 
 🗣️ {{ destaque.comentario }}</p>
 
