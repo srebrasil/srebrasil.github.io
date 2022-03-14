@@ -1,6 +1,6 @@
 <p align="center"><img src="https://destaque.srebrasil.com/assets/destaques.gif"></p>
 
-##**Como Colaborar com os Destaques da Semana**
+# **Como Colaborar com os Destaques da Semana**
 
 - Clone o repositório
 - Crie um novo branch para sua sugestão de tópico
