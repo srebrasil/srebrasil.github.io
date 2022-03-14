@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: page
 ---
 <p align="center"><img src="https://destaque.srebrasil.com/assets/destaques.gif"></p>
 
 {% for destaque in site.posts %}
 
-## **{{ destaque.headline }}**
+## *{{ destaque.headline }}*
 
 🌐 [{{ destaque.highlight_title }}]({{ destaque.highlight_url }})
 👱🏼‍♂️ De:{{destaque.highlight_autor}}
