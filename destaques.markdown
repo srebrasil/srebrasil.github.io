@@ -1,5 +1,5 @@
+---
 layout: page
-list_title: ' '
 ---
 <p align="center"><img src="https://destaque.srebrasil.com/assets/destaques.gif"></p>
 
