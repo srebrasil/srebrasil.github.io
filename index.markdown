@@ -14,9 +14,9 @@ layout: page
 
 #### **{{ destaque.headline }}**
 
-🌐 [{{ destaque.highlight_title }}]({{ destaque.highlight_url }}) por 👱🏼‍♂️ {{destaque.highlight_autor}} (Comentários de :man_technologist: [{{ destaque.comentado_por }}]({{ destaque.comentado_por_linkedin }}))
+    🌐 [{{ destaque.highlight_title }}]({{ destaque.highlight_url }}) por 👱🏼‍♂️ {{destaque.highlight_autor}} (Comentários de :man_technologist: [{{ destaque.comentado_por }}]({{ destaque.comentado_por_linkedin }}))
 
-🗣️ {{ destaque.comentario }}</p>
+    🗣️ {{ destaque.comentario }}</p>
 
 {% endif %}
 {% endfor %}
