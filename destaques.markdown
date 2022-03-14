@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: default
 ---
 <p align="center"><img src="https://destaque.srebrasil.com/assets/destaques.gif"></p>
 
-{ % for destaque in site.posts % }
+{% for destaque in site.posts %}
 
 ## **{{ destaque.headline }}**
 
@@ -11,5 +11,5 @@ layout: page
 
 🗣️ {{ destaque.comentario }}
 
-{ % endfor % }
+{% endfor %}
 
