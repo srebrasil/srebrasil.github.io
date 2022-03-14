@@ -5,6 +5,7 @@ date:   2022-03-13 13:28:36 -0300
 categories: update
 published: true
 release: "14.03.2022"
+tag: "Edição #2 - 21.03.2022"
 headline: "Qual importância de renomear o processo de Postmortem?"
 highlight_title: "Renaming SRE outage postmortems for psychological safety"
 highlight_url: "https://five9s.substack.com/p/renaming-sre-outage-post-mortems?utm_source=url&s=r"
