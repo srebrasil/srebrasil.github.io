@@ -12,3 +12,20 @@ layout: page
 🗣️ {{ destaque.comentario }}</p>
 
 {% endfor %}
+
+
+{% for tag in site.tags %}
+    {% assign t = tag | first %}
+    {% assign posts = tag | last %}
+
+    {{ t | downcase }}
+    <ul>
+        {% for post in posts %}
+            {% if post.tags contains t %}
+                <li>
+                    <a href="{{ post.highlight_url }}">{{ post.title }}</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+{% endfor %}
