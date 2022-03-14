@@ -17,5 +17,6 @@ layout: page
 
 🗣️ {{ destaque.comentario }}</p>
 
+{% endif %}
 {% endfor %}
 {% endfor %}
