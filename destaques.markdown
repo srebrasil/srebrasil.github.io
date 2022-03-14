@@ -12,4 +12,3 @@ layout: default
 🗣️ {{ destaque.comentario }}
 
 {% endfor %}
-
