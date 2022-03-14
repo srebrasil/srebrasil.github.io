@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Qual importância de renomear o processo de Postmortem?"
-date:   2022-03-14 08:30:00 -0300
+date:   2022-03-14 08:00:00 -0300
 categories: update
 published: true
 tag: "Edição #1 - 14.03.2022"
