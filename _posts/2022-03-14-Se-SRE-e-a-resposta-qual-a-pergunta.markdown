@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Se SRE é a resposta, qual a pergunta?"
-date:   2022-03-13 13:28:36 -0300
+date:   2022-03-14 08:00:00 -0300
 categories: update
 published: true
 tag: "Edição #1 - 14.03.2022"
