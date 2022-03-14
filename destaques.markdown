@@ -7,8 +7,8 @@ layout: default
 
 ## **{{ destaque.headline }}**
 
-🌐 [{{ destaque.highlight_title }}]({{ destaque.highlight_url }}) 
-De: 👱🏼‍♂️ {{destaque.highlight_autor}}
+🌐 [{{ destaque.highlight_title }}]({{ destaque.highlight_url }})
+👱🏼‍♂️ De:{{destaque.highlight_autor}}
 :man_technologist: Comentários de [{{ destaque.comentado_por }}]({{ destaque.comentado_por_linkedin }}))
 :spiral_calendar: release: {{ destaque.release }}
 
