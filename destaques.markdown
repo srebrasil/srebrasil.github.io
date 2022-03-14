@@ -5,13 +5,13 @@ layout: page
 
 {% for destaque in site.posts %}
 
-## *{{ destaque.headline }}*
+## **{{ destaque.headline }}**
 
-🌐 [{{ destaque.highlight_title }}]({{ destaque.highlight_url }})
-👱🏼‍♂️ De:{{destaque.highlight_autor}}
-:man_technologist: Comentários de [{{ destaque.comentado_por }}]({{ destaque.comentado_por_linkedin }}))
-:spiral_calendar: release: {{ destaque.release }}
+<p>🌐 [{{ destaque.highlight_title }}]({{ destaque.highlight_url }})</p>
+<p>👱🏼‍♂️ De:{{destaque.highlight_autor}}</p>
+<p>:man_technologist: Comentários de [{{ destaque.comentado_por }}]({{ destaque.comentado_por_linkedin }}))</p>
+<p>:spiral_calendar: release: {{ destaque.release }}</p>
 
-🗣️ {{ destaque.comentario }}
+<p>🗣️ {{ destaque.comentario }}</p>
 
 {% endfor %}
