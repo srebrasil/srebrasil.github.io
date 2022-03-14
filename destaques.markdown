@@ -7,7 +7,7 @@ layout: page
 
 ## **{{ destaque.headline }}**
 
-🌐 [{{ destaque.highlight_title }}]({{ destaque.highlight_url }}) por 👱🏼‍♂️ {{page.highlight_autor}} (Comentários de :man_technologist: [{{ page.comentado_por }}]({{ page.comentado_por_linkedin }}))
+🌐 [{{ destaque.highlight_title }}]({{ destaque.highlight_url }}) por 👱🏼‍♂️ {{destaque.highlight_autor}} (Comentários de :man_technologist: [{{ destaque.comentado_por }}]({{ destaque.comentado_por_linkedin }}))
 
 🗣️ {{ destaque.comentario }}</p>
 
