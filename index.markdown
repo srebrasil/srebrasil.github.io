@@ -4,8 +4,8 @@ layout: page
 <p align="center"><img src="https://destaque.srebrasil.com/assets/destaques.gif"></p>
 
 {% for tag in site.tags %}
-{% assign t = tag | first %}
-{% assign posts = tag | last %}
+{% assign t = tag | last %}
+{% assign posts = tag | first %}
 # **{{ t }}**
 
 {% for destaque in site.posts %}
