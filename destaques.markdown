@@ -9,7 +9,7 @@ layout: page
 {{ t | downcase }}
 
 {% for destaque in site.posts %}
-{% if post.tags contains t %}
+{% if destaque.tags contains t %}
 
 ## **{{ destaque.headline }}**
 
