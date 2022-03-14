@@ -3,7 +3,7 @@ list_title: ' '
 ---
 <p align="center"><img src="https://destaque.srebrasil.com/assets/destaques.gif"></p>
 
-{{ % for destaque in site.posts %}}
+{ % for destaque in site.posts % }
 
 ## **{{ destaque.headline }}**
 
@@ -11,5 +11,5 @@ list_title: ' '
 
 🗣️ {{ destaque.comentario }}
 
-{{ % endfor %}}
+{ % endfor % }
 
