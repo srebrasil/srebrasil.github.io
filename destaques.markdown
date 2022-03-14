@@ -7,11 +7,11 @@ layout: page
 
 ## **{{ destaque.headline }}**
 
-<p>🌐 [{{ destaque.highlight_title }}]({{ destaque.highlight_url }})</p>
-<p>👱🏼‍♂️ De:{{destaque.highlight_autor}}</p>
-<p>:man_technologist: Comentários de [{{ destaque.comentado_por }}]({{ destaque.comentado_por_linkedin }}))</p>
-<p>:spiral_calendar: release: {{ destaque.release }}</p>
+🌐 [{{ destaque.highlight_title }}]({{ destaque.highlight_url }})
+\n👱🏼‍♂️ De:{{destaque.highlight_autor}}
+\n:man_technologist: Comentários de [{{ destaque.comentado_por }}]({{ destaque.comentado_por_linkedin }}))
+\n:spiral_calendar: release: {{ destaque.release }}
 
-<p>🗣️ {{ destaque.comentario }}</p>
+🗣️ {{ destaque.comentario }}</p>
 
 {% endfor %}
