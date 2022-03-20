@@ -1,7 +1,7 @@
 ---
 layout: post 
 title:  "Sobre Dashboards e sua utilidade na resposta de incidentes"
-date:   2022-03-20 08:00:00 -0300
+date:   2022-03-21 08:00:00 -0300
 published: true
 tag: "Edição #2 - 21.03.2022"
 headline: "Sobre Dashboards e sua utilidade na resposta de incidentes"
