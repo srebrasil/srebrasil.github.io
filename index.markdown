@@ -6,13 +6,11 @@ comments: true
 
 **Edição #2 em preparação - Lançamento em 21.03.2022**
 
+# **Edição #2 - 21.03.2022**
 
-{% for tag in site.tags %}
-{% assign t = tag | first %}
-{% assign posts = tag | last %}
 {% for destaque in site.posts %}
 {% if destaque.tag contains "Edição #2" %}
-# **{{ t }}**
+
 
 ### **{{ destaque.headline }}**
 
@@ -21,7 +19,6 @@ comments: true
 🗣️ {{ destaque.comentario }}
 
 {% endif %}
-{% endfor %}
 {% endfor %}
 
 <div id="disqus_thread"></div>
