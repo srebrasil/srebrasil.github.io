@@ -1,18 +1,48 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Edições Anteriores
+permalink: /edicoes_anteriores/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<p align="center"><img src="https://destaque.srebrasil.com/assets/destaques.gif"></p>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+{% for tag in site.tags %}
+{% assign t = tag | first %}
+{% assign posts = tag | last %}
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# **{{ t }}**
 
+{% for destaque in site.posts %}
+{% if destaque.tags contains t %}
 
-[jekyll-organization]: https://github.com/jekyll
+### **{{ destaque.headline }}**
+
+🌐 [{{ destaque.highlight_title }}]({{ destaque.highlight_url }}) por 👱🏼‍♂️ {{destaque.highlight_autor}} (Comentários de :man_technologist: [{{ destaque.comentado_por }}]({{ destaque.comentado_por_linkedin }}))
+
+🗣️ {{ destaque.comentario }}
+
+{% endif %}
+{% endfor %}
+{% endfor %}
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://srebrasil.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">Comentários habilitados pelo Disqus.</a></noscript>
+
+<script id="dsq-count-scr" src="//srebrasil.disqus.com/count.js" async></script>
