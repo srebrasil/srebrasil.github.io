@@ -14,7 +14,7 @@ comments: true
 # **{{ t }}**
 
 {% for destaque in site.posts %}
-{% if destaque.tags contains "21.03.2022" %}
+{% if destaque.tags contains t %}
 
 ### **{{ destaque.headline }}**
 
