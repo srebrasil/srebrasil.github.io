@@ -10,6 +10,7 @@ comments: true
 {% if tag == "Edição #2 - 21.03.2022" %}
 {% assign t = tag | first %}
 {% assign posts = tag | last %}
+{% endif %}
 
 # **{{ t }}**
 
@@ -21,7 +22,7 @@ comments: true
 🌐 [{{ destaque.highlight_title }}]({{ destaque.highlight_url }}) por 👱🏼‍♂️ {{destaque.highlight_autor}} (Comentários de :man_technologist: [{{ destaque.comentado_por }}]({{ destaque.comentado_por_linkedin }}))
 
 🗣️ {{ destaque.comentario }}
-{% endif %}
+
 {% endif %}
 {% endfor %}
 {% endfor %}
