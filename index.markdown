@@ -8,7 +8,7 @@ comments: true
 
 
 {% for tag in site.tags %}
-{% assign t = tag | last %}
+{% assign t = tag | first %}
 {% assign posts = tag | last %}
 
 # **{{ t }}**
