@@ -4,10 +4,6 @@ title: "Edição #1 14.03.2022"
 permalink: /edicao1/
 ---
 
-<p align="center"><img src="https://destaque.srebrasil.com/assets/destaques.gif"></p>
-
-# **Edição #1 - 14.03.2022**
-
 {% for destaque in site.posts %}
 {% if destaque.tag contains "Edição #1" %}
 
