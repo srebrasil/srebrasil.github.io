@@ -14,7 +14,7 @@ comments: true
 # **{{ t }}**
 
 {% for destaque in site.posts %}
-{% if destaque.tags == "Edição #2 - 21.03.2022" %}
+{% if destaque.tags contains "Edição #2" %}
 
 ### **{{ destaque.headline }}**
 
