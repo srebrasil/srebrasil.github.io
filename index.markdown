@@ -9,9 +9,9 @@ comments: true
 {% for tag in site.tags %}
 {% assign t = tag | first %}
 {% assign posts = tag | last %}
-
+{% if destaque.tags contains "Edição #2" %}
 # **{{ t }}**
-
+{% endif %}
 {% for destaque in site.posts %}
 {% if destaque.tags contains "Edição #2" %}
 
