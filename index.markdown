@@ -4,8 +4,6 @@ comments: true
 ---
 <p align="center"><img src="https://destaque.srebrasil.com/assets/destaques.gif"></p>
 
-**Edição #2 em preparação - Lançamento em 21.03.2022**
-
 # **Edição #2 - 21.03.2022**
 
 {% for destaque in site.posts %}
