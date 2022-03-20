@@ -8,13 +8,13 @@ comments: true
 
 
 {% for tag in site.tags %}
-{% assign t = tag | first %}
+{% assign t = tag | last %}
 {% assign posts = tag | last %}
 
 # **{{ t }}**
 
 {% for destaque in site.posts %}
-{% if destaque.tags contains "Edição #2" %}
+{% if destaque.tags contains "21.03.2022" %}
 
 ### **{{ destaque.headline }}**
 
