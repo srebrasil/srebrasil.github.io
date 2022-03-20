@@ -1,7 +1,9 @@
 ---
 layout: page
-comments: true
+title: Edições Anteriores
+permalink: /edicoes_anteriores/
 ---
+
 <p align="center"><img src="https://destaque.srebrasil.com/assets/destaques.gif"></p>
 
 {% for tag in site.tags %}
@@ -11,7 +13,7 @@ comments: true
 # **{{ t }}**
 
 {% for destaque in site.posts %}
-{% if destaque.tags contains "Edição #2" %}
+{% if destaque.tags contains t %}
 
 ### **{{ destaque.headline }}**
 
