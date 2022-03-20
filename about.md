@@ -10,11 +10,10 @@ permalink: /edicoes_anteriores/
 {% assign t = tag | first %}
 {% assign posts = tag | last %}
 
-# **{{ t }}**
-
 {% for destaque in site.posts %}
-{% if destaque.tags contains t %}
+{% unless destaque.tag contains "Edição #2" %}
 
+# **{{ t }}**
 ### **{{ destaque.headline }}**
 
 🌐 [{{ destaque.highlight_title }}]({{ destaque.highlight_url }}) por 👱🏼‍♂️ {{destaque.highlight_autor}} (Comentários de :man_technologist: [{{ destaque.comentado_por }}]({{ destaque.comentado_por_linkedin }}))
