@@ -7,17 +7,14 @@ comments: true
 **Edição #2 em preparação - Lançamento em 21.03.2022**
 
 
-{% if site.tags == "Edição #2 - 21.03.2022" %}
-
 {% for tag in site.tags %}
 {% assign t = tag | first %}
 {% assign posts = tag | last %}
-{% endif %}
 
 # **{{ t }}**
 
 {% for destaque in site.posts %}
-{% if destaque.tags contains t %}
+{% if destaque.tags == "Edição #2 - 21.03.2022" %}
 
 ### **{{ destaque.headline }}**
 
