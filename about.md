@@ -20,7 +20,7 @@ permalink: /edicoes_anteriores/
 
 🗣️ {{ destaque.comentario }}
 
-{% endif %}
+{% endunless %}
 {% endfor %}
 {% endfor %}
 
