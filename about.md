@@ -6,14 +6,12 @@ permalink: /edicoes_anteriores/
 
 <p align="center"><img src="https://destaque.srebrasil.com/assets/destaques.gif"></p>
 
-{% for tag in site.tags %}
-{% assign t = tag | first %}
-{% assign posts = tag | last %}
+
 
 {% for destaque in site.posts %}
 {% unless destaque.tag contains "Edição #2" %}
 
-# **{{ t }}**
+# **{{ destaque.tag }}**
 ### **{{ destaque.headline }}**
 
 🌐 [{{ destaque.highlight_title }}]({{ destaque.highlight_url }}) por 👱🏼‍♂️ {{destaque.highlight_autor}} (Comentários de :man_technologist: [{{ destaque.comentado_por }}]({{ destaque.comentado_por_linkedin }}))
@@ -22,7 +20,7 @@ permalink: /edicoes_anteriores/
 
 {% endunless %}
 {% endfor %}
-{% endfor %}
+
 
 <div id="disqus_thread"></div>
 <script>
