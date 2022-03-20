@@ -7,12 +7,12 @@ comments: true
 **Edição #2 em preparação - Lançamento em 21.03.2022**
 
 {% for tag in site.tags %}
-{% if tag contains "Edição #2" %}
+{% if tag == "Edição #2 - 21.03.2022" %}
 {% assign t = tag | first %}
 {% assign posts = tag | last %}
 
 # **{{ t }}**
-{% endif %}
+
 {% for destaque in site.posts %}
 {% if destaque.tags contains "Edição #2" %}
 
@@ -21,7 +21,7 @@ comments: true
 🌐 [{{ destaque.highlight_title }}]({{ destaque.highlight_url }}) por 👱🏼‍♂️ {{destaque.highlight_autor}} (Comentários de :man_technologist: [{{ destaque.comentado_por }}]({{ destaque.comentado_por_linkedin }}))
 
 🗣️ {{ destaque.comentario }}
-
+{% endif %}
 {% endif %}
 {% endfor %}
 {% endfor %}
