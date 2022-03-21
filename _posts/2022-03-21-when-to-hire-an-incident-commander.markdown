@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  "Quando contratar um IC (Incident Commander)"
+title:  "Quando contratar um IC (Incident Commander)?"
 date:   2022-03-19 08:00:00 -0300
 published: false
 tag: "Edição #2 - 21.03.2022"
