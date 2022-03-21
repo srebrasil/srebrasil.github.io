@@ -2,7 +2,7 @@
 layout: post 
 title:  "Quando contratar um IC (Incident Commander)?"
 date:   2022-03-21 08:00:00 -0300
-published: false
+published: true
 tag: "Edição #2 - 21.03.2022"
 headline: "Quando contratar um IC (Incident Commander)"
 highlight_title: "When to hire an Incident Commander"
