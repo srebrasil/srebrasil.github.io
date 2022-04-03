@@ -1,13 +1,11 @@
 ---
 layout: page
-comments: true
+title: "Edição #3 28.03.2022"
+permalink: /edicao2/
 ---
-<p align="center"><img src="https://destaque.srebrasil.com/assets/destaques.gif"></p>
-
-# **Edição #4 - 04.04.2022**
 
 {% for destaque in site.posts %}
-{% if destaque.tag contains "Edição #4" %}
+{% if destaque.tag contains "Edição #3" %}
 
 
 ### **{{ destaque.headline }}**
