@@ -16,3 +16,4 @@ comentario: |-
     Trata-se de um artigo bastante completo e que merece uma leitura cuidadosa. "
 comentado_por: "Ricardo Coelho de Sousa"
 comentado_por_linkedin: "http://www.linkedin.com/in/rcsousa1"
+---
