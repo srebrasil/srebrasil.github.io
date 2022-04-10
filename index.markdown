@@ -4,7 +4,7 @@ comments: true
 ---
 <p align="center"><img src="https://destaque.srebrasil.com/assets/destaques.gif"></p>
 
-# **Edição #4 - 11.04.2022**
+# **Edição #5 - 11.04.2022**
 
 {% for destaque in site.posts %}
 {% if destaque.tag contains "Edição #5" %}
