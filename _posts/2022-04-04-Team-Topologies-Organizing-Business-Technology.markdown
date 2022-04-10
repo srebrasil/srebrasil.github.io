@@ -4,8 +4,8 @@ title:  "Topologia de times e como organizar negócios e TI para acelerar entreg
 date:   2022-04-04 08:00:00 -0300
 published: true
 tag: "Edição #4 - 04.04.2022"
-headline: "Team Topologies: Organizing Business and Technology Teams for Fast Flow (English Edition)"
-highlight_title: "Topologia de times e como organizar negócios e TI para acelerar entrega de valor"
+headline: "Topologia de times e como organizar negócios e TI para acelerar entrega de valor"
+highlight_title: "Team Topologies: Organizing Business and Technology Teams for Fast Flow (English Edition)"
 highlight_url: "https://www.amazon.com.br/Team-Topologies-Organizing-Business-Technology-ebook/dp/B09JWT9S4D/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1648999632&sr=8-1"
 highlight_autor: "Matthew Skelton e Manuel Pais"
 comentario: |-

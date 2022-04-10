@@ -1,11 +1,11 @@
 ---
 layout: post 
-title:  "Como melhorar resposta de incidentes atrás das métricas MMT"
+title:  "Como melhorar resposta de incidentes atrás das métricas MTT"
 date:   2022-04-04 08:00:00 -0300
 published: true
 tag: "Edição #4 - 04.04.2022"
-headline: "How to Best Use MTT* Metrics to Optimize Your Incident Response"
-highlight_title: "Como melhorar resposta de incidentes atrás das métricas MMT"
+headline: "Como melhorar resposta de incidentes atrás das métricas MTT"
+highlight_title: "How to Best Use MTT* Metrics to Optimize Your Incident Response"
 highlight_url: "https://www.infoq.com/articles/mtt-metrics-incident-response/"
 highlight_autor: "Alex Ewerlöf e Matt Campbell"
 comentario: |-

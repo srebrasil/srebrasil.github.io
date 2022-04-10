@@ -4,8 +4,8 @@ title:  "Circuit Breakers irão resolver meus problemas?"
 date:   2022-04-04 08:00:00 -0300
 published: true
 tag: "Edição #4 - 04.04.2022"
-headline: "Will circuit breakers solve my problems?"
-highlight_title: "Circuir Breakers irão resolver meus problemas?"
+headline: "Circuit Breakers irão resolver meus problemas?"
+highlight_title: "Will circuit breakers solve my problems?"
 highlight_url: "https://brooker.co.za/blog/2022/02/16/circuit-breakers.html"
 highlight_autor: "Marc Brooker"
 comentario: |-
