@@ -8,3 +8,4 @@ permalink: /edicoes_anteriores/
 - :newspaper: [Edição #2 - 21.03.2022](edicao2.md)
 - :newspaper: [Edição #3 - 28.03.2022](edicao3.md)
 - :newspaper: [Edição #4 - 04.04.2022](edicao4.md)
+- :newspaper: [Edição #5 - 11.04.2022](edicao5.md)
