@@ -9,7 +9,7 @@ highlight_title: "The Essential Guide to SRE"
 highlight_url: "https://www.blameless.com/the-essential-guide-to-sre"
 highlight_autor: "Blameless"
 comentario: |-
-    "O guia de como implementar as práticas de SRE da Blamess é, como o próprio título sugere, essencial. O guia não trás, e acredito que nem conseguiria, um roteiro detalhado de como adotar as práticas descritas e implementadas em organizações como Google e LinkedIn, grandes evangelistas da disciplina de engenharia de confiabilidade. Entretanto, o guia indica quais princípios deveriam ser observados pelas organizações, haja visto que menos da metade das práticas do Google podem ser implementadas sem ajustes, ou sequer fazem sentido, na maioria delas.
+    "O guia de como implementar as práticas de SRE da Blameless é, como o próprio título sugere, essencial. O guia não trás, e acredito que nem conseguiria, um roteiro detalhado de como adotar as práticas descritas e implementadas em organizações como Google e LinkedIn, grandes evangelistas da disciplina de engenharia de confiabilidade. Entretanto, o guia indica quais princípios deveriam ser observados pelas organizações, haja visto que menos da metade das práticas do Google podem ser implementadas sem ajustes, ou sequer fazem sentido, na maioria delas.
     
     O guia contribui para a evolução das organizações através da construção de um modelo estruturado dos pilares que permitirão que as empresas adotem práticas adequadas aos seus modelos operacionais. Esses pilares são descritos como:
     
