@@ -4,7 +4,7 @@ title:  “Será que precisamos garantir que o problema não ocorra novamente?�
 date:   2022-04-29 08:00:00 -0300
 published: true
 tag: "Edição #8 - 02.05.2022"
-headline: "Será que precisamos garantir que esse problema não ocorra novamente?"
+headline: "Será que precisamos garantir que o problema não ocorra novamente?"
 highlight_title: "Incident Analysis 101: Handling Action Items"
 highlight_url: "https://www.jeli.io/blog/incident-analysis-101-handling-action-items/"
 highlight_autor: "Emily Ruppe and Thai Wood”
