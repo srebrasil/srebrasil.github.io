@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  “Será que precisamos garantir que esse problema não ocorra novamente?”
+title:  “Será que precisamos garantir que o problema não ocorra novamente?”
 date:   2022-04-29 08:00:00 -0300
 published: true
 tag: "Edição #8 - 02.05.2022"
