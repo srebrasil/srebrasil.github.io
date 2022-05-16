@@ -18,4 +18,6 @@ permalink: /edicoes_anteriores/
 - :newspaper: [Edição #7 - 25.04.2022](edicao7.md)
   ![Edição #7 - 25.04.2022](/assets/SRE%20Brasil%20Not%C3%ADcias%207.png)
 - :newspaper: [Edição #8 - 02.05.2022](edicao8.md)
-  ![Edição #7 - 25.04.2022](/assets/SRE%20Brasil%20Not%C3%ADcias%208.png)
+  ![Edição #8 - 02.05.2022](/assets/SRE%20Brasil%20Not%C3%ADcias%208.png)
+- :newspaper: [Edição #9 - 09.05.2022](edicao9.md)
+  ![Edição #9 - 09.05.2022](/assets/SRE%20Brasil%20Not%C3%ADcias%209.png)
