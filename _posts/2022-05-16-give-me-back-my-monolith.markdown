@@ -3,7 +3,7 @@ layout: post
 title:  "Devolva meu monolito!"
 date:   2022-05-16 08:00:00 -0300
 published: false
-tag: "<! --- NÃO ALTERAR --->"
+tag: "Edição #11 - 23.05.2022"
 headline: "Devolva meu monolito!"
 highlight_title: "Give me back my monolith"
 highlight_url: "https://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/"
