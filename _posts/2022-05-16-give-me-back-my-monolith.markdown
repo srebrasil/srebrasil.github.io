@@ -2,7 +2,7 @@
 layout: post 
 title:  "Devolva meu monolito!"
 date:   2022-05-16 08:00:00 -0300
-published: false
+published: true
 tag: "Edição #11 - 23.05.2022"
 headline: "Devolva meu monolito!"
 highlight_title: "Give me back my monolith"
