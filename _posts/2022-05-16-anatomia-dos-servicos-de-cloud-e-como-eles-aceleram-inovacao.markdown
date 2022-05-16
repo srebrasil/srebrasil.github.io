@@ -6,7 +6,7 @@ published: true
 tag: "Edição #10 - 16.05.2022"
 headline: "A anatomia dos serviços de cloud e como eles aceleram criação de valor"
 highlight_title: "A anatomia dos serviços de cloud e como eles aceleram criação de valor"
-highlight_url: "https://www.linkedin.com/pulse/anatomia-dos-servi%25C3%25A7os-de-cloud-e-como-eles-aceleram-coelho-de-sousa/“
+highlight_url: "https://www.linkedin.com/pulse/anatomia-dos-servi%25C3%25A7os-de-cloud-e-como-eles-aceleram-coelho-de-sousa/"
 highlight_autor: "Ricardo Coelho de Sousa"
 comentario: |-
     "Quais são as principais características dos serviços ofertados na cloud e porque você, profissional de TI, deveria entender a anatomia desses serviços para ter sucesso e criar valor? Há muito tempo cloud não é apenas um instrumento para automação e ganho de eficiência. Talvez a cloud seja o maior e mais eficaz motor para inovação e criação de valor na economia digital.
