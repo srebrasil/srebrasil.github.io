@@ -17,8 +17,7 @@ No processo de *debug* ficou inerentemente complicado. A identificação do erro
 
 Em relação a *continuous integration* e *continuous development* há muitos ganhos no processo, porém esse mesmo ambiente de CI/CD tem que ser replicado no ambiente do desenvolvedor e acaba sendo um esforço muito grande em momentos que você quer testar somente uma peça isolada.
 
-Concluindo o pensamento sobre as vantagens já sabidas sobre o uso de micro serviço (agilidade, escala dos times, performance e resiliência) normalmente quando o autor discute com outros colegas sobre escala, o foco é na maior parte da conversa, *como escalar o banco de dados*. Segundo o autor, há uma tendencia cada vez mais comum de se ouvir a reação *Nós estamos felizes com nossa app monolítica*.
-"
+Concluindo o pensamento sobre as vantagens já sabidas sobre o uso de micro serviço (agilidade, escala dos times, performance e resiliência) normalmente quando o autor discute com outros colegas sobre escala, o foco é na maior parte da conversa, *como escalar o banco de dados*. Segundo o autor, há uma tendencia cada vez mais comum de se ouvir a reação *Nós estamos felizes com nossa app monolítica*."
 comentado_por: "Tito Garrido Ogando"
 comentado_por_linkedin: "https://www.linkedin.com/in/titogarrido"
 ---
