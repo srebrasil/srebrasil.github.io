@@ -15,10 +15,10 @@ comentario: |-
   
   Especializações SRE:
   
-  ## Educadores
-  ## Guardiões do SLO
-  ## Arquitetos de infraestrutura
-  ## Líderes de resposta de incidentes"
+  ### Educadores
+  ### Guardiões do SLO
+  ### Arquitetos de infraestrutura
+  ### Líderes de resposta de incidentes"
 comentado_por: "Ricardo Coelho de Sousa"
 comentado_por_linkedin: "https://www.linkedin.com/in/rcsousa1"
 ---
