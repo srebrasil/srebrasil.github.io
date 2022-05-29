@@ -1,10 +1,8 @@
 ---
 layout: page
-comments: true
+title: "Edição #12 30.05.2022"
+permalink: /edicao12/
 ---
-<p align="center"><img src="https://destaque.srebrasil.com/assets/destaques.gif"></p>
-
-# **Edição #12 - 30.05.2022**
 
 {% for destaque in site.posts %}
 {% if destaque.tag contains "Edição #12" %}
@@ -22,7 +20,7 @@ comments: true
 <div id="disqus_thread"></div>
 <script>
     /**
-    *  teste RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
     /*
     var disqus_config = function () {
