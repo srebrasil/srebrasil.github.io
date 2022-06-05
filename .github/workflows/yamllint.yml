@@ -6,10 +6,10 @@ jobs:
   build:
     strategy:
       matrix:
-        os: [macos-11, macos-latest, macos-10.15, ubuntu-latest, ubuntu-20.04, ubuntu-18.04, windows-2022, windows-latest, windows-2019, windows-2016]  # yamllint disable-line rule:line-length
+        os: [ubuntu-latest, ubuntu-20.04, ubuntu-18.04]  # yamllint disable-line rule:line-length
     runs-on: ${{ matrix.os }}
     steps:
       - name: Installs the latest version of Yamllint
         run: pip install yamllint
       - name: Runs yamllint on all the yaml file of the repository
-        run: yamllint --strict /_posts/*.markdown
+        run: yamllint --strict *.markdown
