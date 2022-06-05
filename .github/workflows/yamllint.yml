@@ -1,16 +1,19 @@
-name: Yaml Linter
+name: YAML Lint
 
-on: push
-  paths:
+on:
+  push:
+    paths: 
     - "**.markdown"
+  pull_request:
+    paths:
+    - "**.markdown"
+
 jobs:
   build:
-    strategy:
-      matrix:
-        os: [ubuntu-latest, ubuntu-20.04, ubuntu-18.04]  # yamllint disable-line rule:line-length
-    runs-on: ${{ matrix.os }}
+
+    runs-on: ubuntu-latest
+
     steps:
-      - name: Installs the latest version of Yamllint
-        run: pip install yamllint
-      - name: Runs yamllint on all the yaml file of the repository
-        run: yamllint --strict ./_posts/*.markdown
+    - uses: actions/checkout@v2
+    - name: GitHub YAMLlint
+      uses: ibiqlik/action-yamllint@v3
