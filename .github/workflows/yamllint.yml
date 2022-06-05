@@ -1,7 +1,8 @@
 name: Yaml Linter
 
-on: push   # yamllint disable-line rule:truthy
-
+on: push
+  paths:
+    - "**.markdown"
 jobs:
   build:
     strategy:
