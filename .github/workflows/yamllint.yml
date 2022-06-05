@@ -1,4 +1,4 @@
-name: Yaml linter
+name: Yaml Linter
 
 on: push   # yamllint disable-line rule:truthy
 
@@ -12,4 +12,4 @@ jobs:
       - name: Installs the latest version of Yamllint
         run: pip install yamllint
       - name: Runs yamllint on all the yaml file of the repository
-        run: yamllint --strict *.markdown
+        run: yamllint --strict ./_posts/*.markdown
