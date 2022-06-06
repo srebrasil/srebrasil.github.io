@@ -4,10 +4,10 @@ comments: true
 ---
 <p align="center"><img src="https://destaque.srebrasil.com/assets/destaques.gif"></p>
 
-# **Edição #12 - 30.05.2022**
+# **Edição #13 - 06.05.2022**
 
 {% for destaque in site.posts %}
-{% if destaque.tag contains "Edição #12" %}
+{% if destaque.tag contains "Edição #13" %}
 
 
 ### **{{ destaque.headline }}**
