@@ -9,4 +9,3 @@ jobs:
         uses: ibiqlik/action-yamllint@v3
         with:
           file_or_dir: _posts/*.markdown
-          config_file: .yamllint.yml
