@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  "É necessário desconectar o erro humano do incidente”
+title:  "É necessário desconectar o erro humano do incidente"
 date:   2022-06-05 08:00:00 -0300
 published: true
 tag: "Edição #16 - 06.06.2022"
