@@ -27,3 +27,5 @@ permalink: /edicoes_anteriores/
   ![Edição #11 - 23.05.2022](/assets/SRE%20Brasil%20Not%C3%ADcias%2011.png)
 - :newspaper: [Edição #12 - 30.05.2022](/edicao12.md)
   ![Edição #12 - 30.05.2022](/assets/SRE%20Brasil%20Not%C3%ADcias%2012.png)
+- :newspaper: [Edição #13 - 06.06.2022](/edicao13.md)
+  ![Edição #13 - 06.06.2022](/assets/SRE%20Brasil%20Not%C3%ADcias%2013.png)
