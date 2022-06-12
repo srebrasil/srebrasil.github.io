@@ -2,8 +2,8 @@
 layout: post 
 title:  "Why You Need Chaos Engineering Now More Than Ever"
 date:   2022-06-13 08:00:00 -0300 --->
-published: false
-tag: "<! --- NÃO ALTERAR --->"
+published: true
+tag: "Edição #14 - 13.06.2022"
 headline: "Por que você precisa da Engenharia do Caos mais do que nunca"
 highlight_title: "Why You Need Chaos Engineering Now More Than Ever"
 highlight_url: "https://blog.container-solutions.com/why-you-need-chaos-engineering"
