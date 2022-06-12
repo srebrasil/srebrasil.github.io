@@ -1,7 +1,7 @@
 ---
 layout: post 
 title:  "Readiness to Learn: Safely and Reliably Deploy to the Cloud"
-date:   2022-06-13 08:00:00 -0300 --->
+date:   2022-06-12 08:00:00 -0300 --->
 published: true
 tag: "Edição #14 - 13.06.2022"
 headline: "Readiness to Learn: Safely and Reliably Deploy to the Cloud"
