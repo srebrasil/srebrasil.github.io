@@ -4,7 +4,7 @@ title:  "The Cyber Incident Response Plan: The Power Is In The Process"
 date:   2022-06-12 08:00:00 -0300 --->
 published: true
 tag: "Edição #14 - 13.06.2022"
-headline: "The Cyber Incident Response Plan: The Power Is In The Process"
+headline: "Resposta de incidentes de segurança: O poder está no processo"
 highlight_title: "The Cyber Incident Response Plan: The Power Is In The Process"
 highlight_url: "https://www.mondaq.com/canada/security/1197948/the-cyber-incident-response-plan-the-power-is-in-the-process"
 highlight_autor: "Daniel J. Michaluk and Eric S. Charleston"

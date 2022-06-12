@@ -4,7 +4,7 @@ title:  "Readiness to Learn: Safely and Reliably Deploy to the Cloud"
 date:   2022-06-12 08:00:00 -0300 --->
 published: true
 tag: "Edição #14 - 13.06.2022"
-headline: "Readiness to Learn: Safely and Reliably Deploy to the Cloud"
+headline: "Implementação segura e confiável na cloud"
 highlight_title: "Readiness to Learn: Safely and Reliably Deploy to the Cloud"
 highlight_url: "https://thenewstack.io/readiness-to-learn-safely-and-reliably-deploy-to-the-cloud/"
 highlight_autor: "Laura Maguire"
