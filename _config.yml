@@ -28,10 +28,12 @@ twitter_username: srebrasil
 github_username:  srebrasil
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 header_pages:
   - anteriores.md
