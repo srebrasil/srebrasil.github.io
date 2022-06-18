@@ -29,7 +29,7 @@ body:
     attributes:
       label: Titulo original (em inglês ou portugês)
       description: Qual o título da puplicação original que você está comentando. Acreditamos que os creditos sempre devem ser atribuídos a quem de direito.
-      placeholder: ex. DevOps and SRE: The rise of a new standard to manage complex cloud systems - When innovation becomes mainstream
+      placeholder: ex. The rise of a new standard to manage complex cloud systems - When innovation becomes mainstream
     validations:
       required: true
   - type: input
