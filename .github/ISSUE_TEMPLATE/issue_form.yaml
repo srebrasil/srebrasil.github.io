@@ -2,7 +2,7 @@ name: Submeta sua sugestão
 description: Submeta seus comentários para futuras edições do SREBrasilNoticias aqui
 labels: ["Sugestão de artigo"]
 title: "[Novo Issue]: Preencha com sua sugestão de título"
-projects: "SREBrasil Noticias"
+assignees: rcsousa
 body:
   - type: markdown
     attributes:
