@@ -41,7 +41,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: comentários
+    id: comentarios
     attributes:
       label: Seus comentários
       description: O que você aprendeu, foi inspirador, e gostaria de compartilhar com a comunidade (em português)?
