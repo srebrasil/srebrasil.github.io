@@ -17,7 +17,7 @@ body:
     validations:
       required: false
   - type: input
-    id: rede_social
+    id: redesocial
     attributes:
       label: Qual seu perfil no LinkedIn ou Twitter?
       description: Ao compartilhar seu perfil social os membros da comunidade poderão se conectar com você e continuar a desenvolver o tema!
