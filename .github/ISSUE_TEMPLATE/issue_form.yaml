@@ -1,12 +1,13 @@
 name: Submeta sua sugestão
 description: Submeta seus comentários para futuras edições do SREBrasilNoticias aqui
-labels: [Sugestão de Artigos]
-title: '[Preencha com sua sugestão de título]'
+labels: ["Sugestão de Artigo"]
+title: "[Novo Issue]: Preencha com sua sugestão de título"
 body:
   - type: markdown
     attributes:
       value: |
-        Obrigado por contribuir com a comunidade SREBrasil!
+        Obrigado por contribuir com a comunidade SREBrasil! 
+        Preencha os campos abaixo para compartilhar seu ponto de vista com a comunidade.
   - type: input
     id: contact
     attributes:
@@ -15,46 +16,44 @@ body:
       placeholder: ex. João da Silva
     validations:
       required: false
-  - type: textarea
-    id: what-happened
+  - type: input
+    id: rede_social
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Qual seu perfil no LinkedIn ou Twitter?
+      description: Ao compartilhar seu perfil social os membros da comunidade poderão se conectar com você e continuar a desenvolver o tema!
+      placeholder: ex. http://linkedin.com/in/<seu perfil>
     validations:
       required: true
-  - type: dropdown
-    id: version
+ - type: input
+    id: titulo_original
     attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+      label: Titulo original (em inglês ou portugês)
+      description: Qual o título da puplicação original que você está comentando. Acreditamos que os creditos sempre devem ser atribuídos a quem de direito.
+      placeholder: ex. [Chapter 1] DevOps and SRE: The rise of a new standard to manage complex cloud systems - When innovation becomes mainstream
     validations:
       required: true
-  - type: dropdown
-    id: browsers
+  - type: input
+    id: autor_original
     attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+      label: Autor(e)s
+      description: Quem escreveu essa publicação. É importante atribuir os creditos aos criadores de conteúdo.
+      placeholder: ex. Ricardo Coelho de Sousa
+    validations:
+      required: true
   - type: textarea
-    id: logs
+    id: comentários
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. Isso será formatado automaticamente em código. Portanto, não há necessidade de barra inversa.
-      render: shell
+      label: Seus comentários
+      description: O que você aprendeu, foi inspirador, e gostaria de compartilhar com a comunidade (em português)?
+      placeholder: ""
+      value: "Nova sugestão de publicação"
+    validations:
+      required: true
   - type: checkboxes
     id: terms
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      label: Termo de conduta
+      description: Ao submeter seus comentários você concorda eu inclui-los em uma versão futura do SREBrasilNoticias e assegura que seu texto não usa linguagem imprópria, violenta ou discriminatória com qualquer pessoa, independente de cor, raça, credo, gênero, ou orientação política.
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: Concordo com os termos de conduta
           required: true
