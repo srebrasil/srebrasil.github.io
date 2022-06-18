@@ -47,7 +47,7 @@ body:
       label: Seus comentários
       description: O que você aprendeu, foi inspirador, e gostaria de compartilhar com a comunidade (em português)?
       placeholder: "Seja criativo. O que parece óbvio para você é muito valioso para outros"
-      value: "Nova sugestão de publicação"
+      value: "Seja criativo. O que parece óbvio para você é muito valioso para outros"
     validations:
       required: true
   - type: checkboxes
