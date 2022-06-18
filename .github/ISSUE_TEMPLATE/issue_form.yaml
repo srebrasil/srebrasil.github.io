@@ -24,7 +24,7 @@ body:
       placeholder: ex. http://linkedin.com/in/<seu perfil>
     validations:
       required: true
- - type: input
+  - type: input
     id: titulo_original
     attributes:
       label: Titulo original (em inglês ou portugês)
