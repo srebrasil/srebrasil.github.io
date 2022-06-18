@@ -25,7 +25,7 @@ body:
     validations:
       required: true
   - type: input
-    id: titulo_original
+    id: titulooriginal
     attributes:
       label: Titulo original (em inglês ou portugês)
       description: Qual o título da puplicação original que você está comentando. Acreditamos que os creditos sempre devem ser atribuídos a quem de direito.
