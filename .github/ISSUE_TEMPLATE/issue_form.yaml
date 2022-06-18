@@ -1,7 +1,7 @@
 name: Submeta sua sugestão
 description: Submeta seus comentários para futuras edições do SREBrasilNoticias aqui
 labels: [Sugestão de Artigos]
-title: [Preencha com sua sugestão de título]
+title: '[Preencha com sua sugestão de título]'
 body:
   - type: markdown
     attributes:
