@@ -44,7 +44,7 @@ body:
   - type: input
     id: urlroriginal
     attributes:
-      label: url
+      label: URL da publicação original
       description: Qual o link (URL) da publicação original?
       placeholder: ex. https://www.detech.ai/blog/what-is-an-sre-product-managera
     validations:
