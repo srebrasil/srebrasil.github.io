@@ -41,6 +41,14 @@ body:
       placeholder: ex. Ricardo Coelho de Sousa
     validations:
       required: true
+  - type: input
+    id: urlroriginal
+    attributes:
+      label: url
+      description: Qual o link (URL) da publicação original?
+      placeholder: ex. https://www.detech.ai/blog/what-is-an-sre-product-managera
+    validations:
+      required: true
   - type: textarea
     id: comentarios
     attributes:
