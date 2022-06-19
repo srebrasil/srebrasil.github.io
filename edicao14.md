@@ -1,13 +1,11 @@
 ---
 layout: page
-comments: true
+title: "Edição #14 13.06.2022"
+permalink: /edicao14/
 ---
-<p align="center"><img src="https://destaque.srebrasil.com/assets/destaques.gif"></p>
-
-# **Edição #15 - 20.06.2022**
 
 {% for destaque in site.posts %}
-{% if destaque.tag contains "Edição #15" %}
+{% if destaque.tag contains "Edição #14" %}
 
 
 ### **{{ destaque.headline }}**
@@ -22,7 +20,7 @@ comments: true
 <div id="disqus_thread"></div>
 <script>
     /**
-    *  teste RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
     /*
     var disqus_config = function () {
