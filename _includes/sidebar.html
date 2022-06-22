@@ -1,0 +1,57 @@
+<div class="col-md-4 mt20">
+  <div class="post-img">
+    {% if page.image %}
+    <img
+      width="600"
+      class="rounded"
+      src="{{page.image | relative_url}}"
+      alt="{{page.title}}"
+    />
+    {% endif %}
+  </div>
+
+  <div class="mt10 recent">
+    <ul>
+      <li><a href="#" class="btn btn-info">Artigo Original</a></li>
+      <li>
+        <span itemprop="headline" itemscope itemtype="https://schema.org/CreativeWork">
+          <small><span itemprop="headline"><a href="{{page.highlight_url}}">{{ page.highlight_title }}</a></span></small>
+        </span>
+      </li>
+      <li><a href="#" class="btn btn-info">Autor(e)s</a></li>
+      <li>
+        <span itemprop="headline" itemscope itemtype="https://schema.org/CreativeWork">  
+        <small><span itemprop="author">{{ page.highlight_autor }}</span></small>
+      </span>
+      </li>  
+      </li>
+      <li><a href="#" class="btn btn-info">Edição</a></li>
+      <li>
+        <span itemprop="headline" itemscope itemtype="https://schema.org/CreativeWork">  
+        <small><span itemprop="author">{{ page.tag }}</span></small>
+      </span>
+      </li>  
+    </ul>
+  </div>
+  {% if site.fb-like-box %}
+  <div class="mt10">
+    <div
+      class="fb-page"
+      data-href="https://www.facebook.com/webjeda/"
+      data-width="400"
+      data-small-header="true"
+      data-adapt-container-width="true"
+      data-hide-cover="true"
+      data-show-facepile="true"
+    >
+      <blockquote
+        cite="https://www.facebook.com/webjeda/"
+        class="fb-xfbml-parse-ignore"
+      >
+        <a href="{{site.fb-page-url}}">{{site.fb-page-title}}</a>
+      </blockquote>
+    </div>
+  </div>
+  {% endif %}
+  <br />
+</div>
