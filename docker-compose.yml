@@ -1,9 +1,9 @@
-version: "3.8"
+version: "15.0"
 services:
   jekyll:
-      image: jekyll/jekyll:3.8
+      image: rcsousa/srebrasilgithub:v15.0
       command: jekyll serve --force_polling
       ports:
           - 4000:4000
-      volumes:
-          - .:/srv/jekyll
+#      volumes:
+#         - .:/srv/jekyll
