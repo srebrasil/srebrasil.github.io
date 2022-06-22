@@ -1,4 +1,3 @@
-version: "15.0"
 services:
   jekyll:
       image: rcsousa/srebrasilgithub:v15.0
