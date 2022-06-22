@@ -12,7 +12,7 @@ image: /images/deploy_production.png
 comentado_por: "Ricardo Coelho de Sousa"
 comentado_por_linkedin: "https://www.linkedin.com/in/rcsousa1"
 ---
-**Você sabia que mudanças maiores (change set) e menos frequentes estão inversamente correlacionadas com qualidade e performance de entrega?**
+Você sabia que mudanças maiores (change set) e menos frequentes estão inversamente correlacionadas com qualidade e performance de entrega?
    
 O artigo da Monzo apresenta alguns dados inspiradores. Primeiro eles confirmaram que através da redução da fricção no processo de desenvolvimento, gerenciamento de mudanças e publicação de novas funcionalidades em produção, conseguiram crescer o time em 60% e ainda assim aumentaram a quantidade de deployment por engenheiro com uma redução significativa na quantidade de incidentes e manutenção na quantidade de rollbacks. No artigo o autor afirma saber que essas métricas são proxy e é preciso atentar para não torna-las objetivo, evitando o a lei de Goodhart. Menor número de incidentes não significa maior valor para os clientes e quantidade de rollbacks também não é indicativo que os usuários tenham sido afetados pelas mudanças. 
    
