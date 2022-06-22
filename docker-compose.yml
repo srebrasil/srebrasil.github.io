@@ -1,6 +1,6 @@
 services:
   jekyll:
-      image: rcsousa/srebrasilgithub:v15.0
+      image: ghcr.io/rcsousa/srebrasilgithub:v15
       command: jekyll serve --force_polling
       ports:
           - 4000:4000
