@@ -19,8 +19,8 @@ jobs:
       uses: docker/login-action@v2
       with:
         registry: ghcr.io
-        username: ${{ secrets.GITHUB_USER }}
-        password: ${{ secrets.GITHUB_PASSWORD }}
+        username: ${{ secrets.USER }}
+        password: ${{ secrets.PASSWORD }}
     
     - name: Build the Docker image
       run: docker build . --file Dockerfile --tag ghcr.io/rcsousa/srebrasilgithub:latest
