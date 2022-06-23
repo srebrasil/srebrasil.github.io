@@ -18,4 +18,4 @@ Compare as instruções
     - Você deveria abastecer o avião com 500 litros de combustível se quiser percorrer os 3.000 km do intinerário.
     - Abasteça o avião com 500 litros de combustível para o intinerário A que parte do ponto X e chega ao ponto Y.
 
-Qual, não sua opinião, representa uma linguagem com mais chances de sucesso ao responder um incidente?"
+Qual, não sua opinião, representa uma linguagem com mais chances de sucesso ao responder um incidente?
