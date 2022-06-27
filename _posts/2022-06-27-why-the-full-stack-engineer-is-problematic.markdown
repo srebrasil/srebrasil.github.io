@@ -1,10 +1,10 @@
 ---
 layout: post 
-title:  "Porque o "Engenheiro Full Stack" é tão problemático"
+title:  "Porque o Engenheiro Full Stack é tão problemático"
 date:   2022-06-27 08:00:00 -0300 --->
 published: true
 tag: "Edição #16 - 27.06.2022"
-headline: "Porque o "Engenheiro Full Stack" é tão problemático"
+headline: "Porque o Engenheiro Full Stack é tão problemático"
 highlight_title: "Why the Full Stack Engineer Is Problematic"
 highlight_url: "https://itrevolution.com/why-the-full-stack-engineer-is-problematic/"
 highlight_autor: "IT Revolution"
