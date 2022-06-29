@@ -1,0 +1,41 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: srebrasil
+spec:
+  selector:
+    matchLabels:
+      app: srebrasil
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: srebrasil
+    spec:
+      containers:
+      - name: srebrasil
+        image: ghcr.io/rcsousa/srebrasilgithub:latest
+        command:
+          - "jekyll"
+        args:
+          - "serve"
+          - "--force_pollin"
+        resources:
+          limits:
+            memory: "512Mi"
+        ports:
+        - containerPort: 4000
+          name: srebrasil-port
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: srebrasil-service
+spec:
+  type: ClusterIP
+  selector:
+    app: srebrasil
+  ports:
+  - port: 4000
+    targetPort: srebrasil-port
+
