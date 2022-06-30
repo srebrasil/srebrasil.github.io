@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: srebrasil
-        image: ghcr.io/rcsousa/srebrasilgithub:latest
+        image: ghcr.io/srebrasil/srebrasil.github.io:latest
         command:
           - "jekyll"
         args:
