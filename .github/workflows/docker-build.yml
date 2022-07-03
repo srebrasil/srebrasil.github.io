@@ -2,8 +2,11 @@ name: Docker Image Build
 
 on:
   pull_request:
-    branches: [ "main" ]
-
+    types:
+      - closed
+    branches:    
+      - 'release/**'
+      
 jobs:
 
   build:
