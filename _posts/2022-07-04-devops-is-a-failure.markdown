@@ -1,8 +1,8 @@
 ---
 layout: post 
 title:  "Devops é um fracasso"
-date:   2022-07-10 08:00:00 -0300 --->
-published: false
+date:   2022-07-08 08:00:00 -0300 --->
+published: true
 tag: "Edição #18 - 11.07.2022"
 headline: "Devops é um fracasso"
 highlight_title: "Devops is a failure"
