@@ -1,8 +1,8 @@
 ---
 layout: post 
 title:  "Porque runbooks são essenciais para SREs"
-date:   2022-07-10 08:00:00 -0300 --->
-published: false
+date:   2022-07-08 08:00:00 -0300 --->
+published: true
 tag: "Edição #18 - 11.07.2022"
 headline: "Porque runbooks são essenciais para SREs"
 highlight_title: "Keep calm and use the runbook"
