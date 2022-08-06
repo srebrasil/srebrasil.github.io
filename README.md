@@ -2,35 +2,6 @@
 [![Build do portal SREBrasil Notícias](https://github.com/srebrasil/srebrasil.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/srebrasil/srebrasil.github.io/actions/workflows/pages/pages-build-deployment)
 
 ## "Acompanhe os artigos do SREBrasil Notícias"
-<!-- BLOGPOSTS:START -->
-- [Desafios não óbvios para adotar Canary Releases](http://destaque.srebrasil.com/when-to-kill-the-canary/)
-- [AIOps: Além da monitoração com utilização de técnicas estatísticas](http://destaque.srebrasil.com/machine-learning-vs-aiops-battle-for-better-answers-and-automation/)
-- [3 erros que cometi no início de um incidente (e como evitá-los)](http://destaque.srebrasil.com/3-mistakes-ive-made-at-the-beginning-of-an-incident-and-how-not-to-make-them/)
-- [Observability | Conceitos que você deve conhecer](http://destaque.srebrasil.com/observability-concepts-you-should-know/)
-- [Profissionais de TI: Especialista ou Cientista?](http://destaque.srebrasil.com/learn-systems-by-changing/)
-- [Cloud-native virou padrão! E agora?](http://destaque.srebrasil.com/Cloud-native-modernization-is-on-the-rise/)
-- [Sobre a importância de determinar as fronteiras e o ownership dos serviços de TI](http://destaque.srebrasil.com/standardize-service-ownership-at-scale/)
-- [Otimizar resposta de incidentes é fundamental. Porém não é o suficiente!](http://destaque.srebrasil.com/otimizar-resposta-de-incidentes/)
-- [3 tendências que indicam a necessidade de melhorar a resposta de incidentes](http://destaque.srebrasil.com/3-shifts-driving-need-improved-incident-response/)
-- [Porque runbooks são essenciais para SREs](http://destaque.srebrasil.com/keep-calm-and-use-the-runbook/)
-- [Alertas usando múltiplos fatores de queima de Error Budget com múltiplas janelas de observação](http://destaque.srebrasil.com/multiwindow-multi-burn-rate-alerts/)
-- [Devops é um fracasso](http://destaque.srebrasil.com/devops-is-a-failure/)
-- [Redundância Sim! Mas para quais vulnerabilidades?](http://destaque.srebrasil.com/redundancy/)
-- [Tecnologias emergentes essenciais para resposta de incidentes](http://destaque.srebrasil.com/new-technology-thats-essential-for-modern-incident-response/)
-- [Como integrar ferramentas para resposta de incidentes de segurança](http://destaque.srebrasil.com/incident-response-how-to-integrate-tools-for-modern-ir/)
-- [Porque o Engenheiro Full Stack é tão problemático](http://destaque.srebrasil.com/why-the-full-stack-engineer-is-problematic/)
-- [5 competências não técnicas que todo SRE deve ter](http://destaque.srebrasil.com/sre-skills/)
-- [Como adotar SRE quando você não é o Google](http://destaque.srebrasil.com/how-to-adopt-an-sre-practice-when-youre-not-google/)
-- [Porque times de SRE precisam de product managers](http://destaque.srebrasil.com/what-is-an-sre-product-manager/)
-- [Começando um time de SRE do zero](http://destaque.srebrasil.com/starting-an-sre-team-from-scratch-quick-guide/)
-- [Matriz de priorização de incidentes: Entenda impacto x urgência](http://destaque.srebrasil.com/incident-response-incident-priority-matrix/)
-- [Por que você precisa da Engenharia do Caos mais do que nunca](http://destaque.srebrasil.com/why-you-need-chaos-engineering/)
-- [Resposta de incidentes de segurança: O poder está no processo](http://destaque.srebrasil.com/the-cyber-incident-response-plan-the-power-is-in-the-process/)
-- [Implementação segura e confiável na cloud](http://destaque.srebrasil.com/readiness-to-learn-safely-and-reliably-deploy-to-the-cloud/)
-- [É necessário desconectar o erro humano do incidente](http://destaque.srebrasil.com/the-need-to-decouple-human-error-from-incident-response/)
-- [Como priorizar a jornada de SRE através de métricas](http://destaque.srebrasil.com/metrics-driven-prioritization-for-your-reliability-roadmap/)
-- [SRE e o futuro da Governança, Risco e Compliance (GRC)](http://destaque.srebrasil.com/can-sre-bring-governance-and-compliance-into-the-future/)
-- [Medindo a efetividade da adoção de SRE](http://destaque.srebrasil.com/srecon22americas-presentation-stanke/)
-- [Como publicamos em produção mais de 100 vezes por dia](http://destaque.srebrasil.com/how-we-deploy-to-production-over-100-times-a-day/)
-- [Efeitos colaterais de respostas de incidentes otimizados](http://destaque.srebrasil.com/positive-business-outcomes-of-great-incident-management/)
-<!-- BLOGPOSTS:END -->
+<!--START_SECTION:feed-->
+...
+<!--END_SECTION:feed-->
