@@ -13,5 +13,5 @@ jobs:
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://destaque.srebrasil.com/feed.xml
-          template: "> [{{ title }}]({{ link }})"
+          template: "> \n\n[{{ title }}]({{ link }})"
           readme-section: feed
