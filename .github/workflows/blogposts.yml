@@ -1,0 +1,27 @@
+name: Atualiza README
+on:
+  schedule:
+    # Runs every day at 3pm UTC (11pm SG)
+    - cron: '0 15 * * *'
+
+jobs:
+  pull_blog_rss:
+    name: Update with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Get RSS Feed
+        uses: kohrongying/readme-the-rss@master
+        with:
+          feed_url: https://destaque.srebrasil.com/feed.xml
+          count: 15 # default 5
+      - name: Commit file changes
+        run: |
+            git config --global user.name 'rcsousa'
+            git config --global user.email 'ricardo.c.sousa@gmai.com'
+            git add .
+            git diff --quiet --cached || git commit -m "Update README"    
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
