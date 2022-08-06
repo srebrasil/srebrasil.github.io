@@ -13,6 +13,6 @@ jobs:
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://destaque.srebrasil.com/feed.xml
-          template: " \n:spiral_notepad:[{{ title }}]({{ link }})  :calendar: {{ category }}"
+          template: "- :spiral_notepad: [{{ title }}]({{ link }})"
           max: 30
           readme-section: feed
