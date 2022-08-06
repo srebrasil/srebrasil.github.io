@@ -1,3 +1,5 @@
+[![Imagem Docker atualizada](https://github.com/srebrasil/srebrasil.github.io/actions/workflows/docker-build.yml/badge.svg)](https://github.com/srebrasil/srebrasil.github.io/actions/workflows/docker-build.yml)
+
 ## "Acompanhe os artigos do SREBrasil Notícias"
 <!-- BLOGPOSTS:START -->
 - [Desafios não óbvios para adotar Canary Releases](http://destaque.srebrasil.com/when-to-kill-the-canary/)
