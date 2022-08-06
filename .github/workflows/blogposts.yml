@@ -7,23 +7,10 @@ on:
     - cron: '0 4 * * *'
 
 jobs:
-  pull_blog_rss:
-    name: Update with latest blog posts
+  update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Get RSS Feed
-        uses: kohrongying/readme-the-rss@master
+      - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed_url: https://destaque.srebrasil.com/feed.xml
-          count: 30 # default 5
-      - name: Commit file changes
-        run: |
-            git config --global user.name 'rcsousa'
-            git config --global user.email 'ricardo.c.sousa@gmai.com'
-            git add .
-            git diff --quiet --cached || git commit -m "Update README"    
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          feed-url: https://destaque.srebrasil.com/feed.xml
+          readme-section: feed
