@@ -3,6 +3,9 @@
 
 ## "Acompanhe os artigos do SREBrasil Notícias"
 <!--START_SECTION:feed-->
+- :spiral_notepad: [O Estado do SRE em 2022](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;state-of-sre-2022&#x2F;)
+- :spiral_notepad: [12 maneiras de melhorar seu monolito antes de fazer a transição para microsserviços](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;monolith-microservices&#x2F;)
+- :spiral_notepad: [Você está obtendo o máximo de sua nuvem híbrida?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;forrester-hybrid-cloud&#x2F;)
 - :spiral_notepad: [Desafios não óbvios para adotar Canary Releases](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;when-to-kill-the-canary&#x2F;)
 - :spiral_notepad: [AIOps: Além da monitoração com utilização de técnicas estatísticas](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;machine-learning-vs-aiops-battle-for-better-answers-and-automation&#x2F;)
 - :spiral_notepad: [3 erros que cometi no início de um incidente (e como evitá-los)](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;3-mistakes-ive-made-at-the-beginning-of-an-incident-and-how-not-to-make-them&#x2F;)
@@ -30,7 +33,4 @@
 - :spiral_notepad: [É necessário desconectar o erro humano do incidente](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;the-need-to-decouple-human-error-from-incident-response&#x2F;)
 - :spiral_notepad: [Como priorizar a jornada de SRE através de métricas](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;metrics-driven-prioritization-for-your-reliability-roadmap&#x2F;)
 - :spiral_notepad: [SRE e o futuro da Governança, Risco e Compliance (GRC)](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;can-sre-bring-governance-and-compliance-into-the-future&#x2F;)
-- :spiral_notepad: [Medindo a efetividade da adoção de SRE](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;srecon22americas-presentation-stanke&#x2F;)
-- :spiral_notepad: [Como publicamos em produção mais de 100 vezes por dia](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;how-we-deploy-to-production-over-100-times-a-day&#x2F;)
-- :spiral_notepad: [Efeitos colaterais de respostas de incidentes otimizados](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;positive-business-outcomes-of-great-incident-management&#x2F;)
 <!--END_SECTION:feed-->
