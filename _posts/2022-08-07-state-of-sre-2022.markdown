@@ -1,0 +1,19 @@
+---
+layout: post 
+title:  "O Estado do SRE em 2022"
+date:   2022-08-07 08:00:00 -0300 --->
+published: true
+tag: "Edição #22 - 08.08.2022"
+headline: "O Estado do SRE em 2022"
+highlight_title: "The State of SRE in 2022"
+highlight_url: "https://info.dynatrace.com/noram-all-wc-the-state-of-sre-in-2022-19382-registration.html"
+highlight_autor: "Dynatrace"
+image: /images/dynatrace_post.png
+comentado_por: "Danne Aguiar"
+comentado_por_linkedin: "https://www.linkedin.com/in/dannemca/"
+---
+De acordo com o Google, o SRE fará 20 anos em 2023. Uma longa jornada vem sendo traçada desde então. Temos diversos livros, sites, blogs, grupos sobre o assunto, onde conceitos, práticas e aplicabilidade são discutidos em todos os níveis.
+
+Mas como está a maturidade do SRE nas companhias em pleno 2022? Ele está de fato sendo aplicado, implementado, ou apenas sendo discutido? Quais os desafios essas empresas estão enfretando hoje, quase 20 anos após o surgimento do termo? E os profissionais SRE, o que dizem? Quais são suas dores, seus casos de sucesso? Como o SRE vem sendo moldado desde que saiu do Google e passou a ser adotado em outras grandes empresas de tecnologia?
+
+O "State of SRE 2022", patrocinado pela **Dynatrace**, entrevistou cerca de 450 profissionais SRE pro todo o globo, fazendo essas e outras perguntas, que foram documentadas nesse ebook (https://www.dynatrace.com/info/sre-report/) e então discutida nesse webinar (https://info.dynatrace.com/noram-all-wc-the-state-of-sre-in-2022-19382-registration.html), onde eu fui um dos participantes, tendo a honra de representar a comunidade SRE no Brasil.
