@@ -10,7 +10,7 @@ highlight_url: "https://blog.danslimmon.com/2019/05/03/no-observability-without-
 highlight_autor: "Dan Slimmon"
 image: /images/obs_theory_post.png
 comentado_por: "Ricardo Coelho de Sousa"
-comentado_por_linkedin: "https://www.linkedin.com/in/rcsousa1”
+comentado_por_linkedin: "https://www.linkedin.com/in/rcsousa1"
 ---
 Será que é possível implementar observabilidade sem teoria? Aparentemente (e eu concordo) não.
 A maioria das iniciativas atuais para implementar ou expandir observabilidade nos sistemas está associada a expandir a captura de logs, métricas e traces (spans), e criar dashboards que permitam que os times cheguem mais rapidamente a causa raiz dos problemas na medida em que eles ocorram.

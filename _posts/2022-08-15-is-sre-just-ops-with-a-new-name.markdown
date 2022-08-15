@@ -10,7 +10,7 @@ highlight_url: "https://metrist.io/blog/is-sre-just-ops-with-a-new-name/"
 highlight_autor: "Jeff Martens"
 image: /images/sreops_post.png
 comentado_por: "Ricardo Coelho de Sousa"
-comentado_por_linkedin: "https://www.linkedin.com/in/rcsousa1”
+comentado_por_linkedin: "https://www.linkedin.com/in/rcsousa1"
 ---
 A discussão sobre engenharia de confiabilidade (SRE) ser um conjunto de práticas ou uma função fundamentalmente diferente da tradicional operações de TI não é nova. No entanto, ainda divide opiniões! Pelo visto precisaremos de algum tempo para convergir no entendimento do que representa SRE, se é o mesmo que operações ou ITOps, se é DevOps repaginado, ou mesmo se essa discussão não faz o menor sentido 😄 .
 
