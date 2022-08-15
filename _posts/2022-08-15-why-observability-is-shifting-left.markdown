@@ -10,7 +10,7 @@ highlight_url: "https://thenewstack.io/why-observability-is-shifting-left/"
 highlight_autor: "Ilan Peleg"
 image: /images/obs_design_post.png
 comentado_por: "Ricardo Coelho de Sousa"
-comentado_por_linkedin: "https://www.linkedin.com/in/rcsousa1”
+comentado_por_linkedin: "https://www.linkedin.com/in/rcsousa1"
 ---
 Observabilidade talvez seja o tópico mais comentado nos círculos de engenharia de confiabilidade e DevOps atualmente. Muito do que se discute sobre o tema é sobre a necessidade de capturar o máximo de informações ou sinais sobre os sistemas (que ficam sempre mais complexos), para que no advento dos incidentes os **times técnicos sejam capazes de investigar esses sinais e chegar, de forma rápida e precisa, ao que antigamente chamávamos de causa raiz e hoje identificamos como causa mais provável**.  
 
