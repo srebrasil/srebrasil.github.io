@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  "O Estado do SRE em 2022"
+title:  "Porque não existe observability sem teoria"
 date:   2022-08-15 08:00:00 -0300 --->
 published: true
 tag: "Edição #23 - 15.08.2022"
