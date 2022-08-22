@@ -3,6 +3,12 @@
 
 ## "Acompanhe os artigos do SREBrasil Notícias"
 <!--START_SECTION:feed-->
+- :spiral_notepad: [Porque SRE é fundamental para transformação digital](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;new-report-details-impact-site-reliability-engineering-itops&#x2F;)
+- :spiral_notepad: [Quando reduzir o MTTR não deve ser o foco!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;mttr-lower-isnt-always-better&#x2F;)
+- :spiral_notepad: [Enquanto TI for APENAS infraestrutura, nossos sistemas não serão confiáveis!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;enquanto-ti-apenas-infraestrutura-nossos-sistemas&#x2F;)
+- :spiral_notepad: [Porque implementar observabilidade no design](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;why-observability-is-shifting-left&#x2F;)
+- :spiral_notepad: [Porque não existe observability sem teoria](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;no-observability-without-theory&#x2F;)
+- :spiral_notepad: [SRE: Apenas operações com outro nome?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;is-sre-just-ops-with-a-new-name&#x2F;)
 - :spiral_notepad: [O Estado do SRE em 2022](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;state-of-sre-2022&#x2F;)
 - :spiral_notepad: [12 maneiras de melhorar seu monolito antes de fazer a transição para microsserviços](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;monolith-microservices&#x2F;)
 - :spiral_notepad: [Você está obtendo o máximo de sua nuvem híbrida?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;forrester-hybrid-cloud&#x2F;)
@@ -27,10 +33,4 @@
 - :spiral_notepad: [Porque times de SRE precisam de product managers](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;what-is-an-sre-product-manager&#x2F;)
 - :spiral_notepad: [Começando um time de SRE do zero](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;starting-an-sre-team-from-scratch-quick-guide&#x2F;)
 - :spiral_notepad: [Matriz de priorização de incidentes: Entenda impacto x urgência](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;incident-response-incident-priority-matrix&#x2F;)
-- :spiral_notepad: [Por que você precisa da Engenharia do Caos mais do que nunca](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;why-you-need-chaos-engineering&#x2F;)
-- :spiral_notepad: [Resposta de incidentes de segurança: O poder está no processo](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;the-cyber-incident-response-plan-the-power-is-in-the-process&#x2F;)
-- :spiral_notepad: [Implementação segura e confiável na cloud](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;readiness-to-learn-safely-and-reliably-deploy-to-the-cloud&#x2F;)
-- :spiral_notepad: [É necessário desconectar o erro humano do incidente](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;the-need-to-decouple-human-error-from-incident-response&#x2F;)
-- :spiral_notepad: [Como priorizar a jornada de SRE através de métricas](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;metrics-driven-prioritization-for-your-reliability-roadmap&#x2F;)
-- :spiral_notepad: [SRE e o futuro da Governança, Risco e Compliance (GRC)](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;can-sre-bring-governance-and-compliance-into-the-future&#x2F;)
 <!--END_SECTION:feed-->
