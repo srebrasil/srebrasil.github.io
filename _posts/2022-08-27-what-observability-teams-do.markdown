@@ -5,7 +5,7 @@ date:   2022-08-27 08:00:00 -0300 --->
 published: true
 tag: "Edição #25 - 29.08.2022"
 headline: "Qual o papel da engenharia de observabilidade?"
-highlight_title: "Ask Miss O11y: What Should An "Observability Team" Do?"
+highlight_title: "Ask Miss O11y: What Should An Observability Team Do?"
 highlight_url: "https://www.honeycomb.io/blog/what-observability-teams-do/"
 highlight_autor: "Charity Majors"
 image: /images/obs_eng_post.png
