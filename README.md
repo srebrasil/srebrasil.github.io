@@ -3,6 +3,9 @@
 
 ## "Acompanhe os artigos do SREBrasil Notícias"
 <!--START_SECTION:feed-->
+- :spiral_notepad: [Qual o papel da engenharia de observabilidade?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;what-observability-teams-do&#x2F;)
+- :spiral_notepad: [Resposta de Incidentes: Você não precisa saber tudo!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;sre-from-theory-to-practice-whats-difficult-about-on-call-discussion&#x2F;)
+- :spiral_notepad: [5 maneiras de prevenir um outage](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;5-ways-to-prevent-an-outage&#x2F;)
 - :spiral_notepad: [Porque SRE é fundamental para transformação digital](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;new-report-details-impact-site-reliability-engineering-itops&#x2F;)
 - :spiral_notepad: [Quando reduzir o MTTR não deve ser o foco!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;mttr-lower-isnt-always-better&#x2F;)
 - :spiral_notepad: [Enquanto TI for APENAS infraestrutura, nossos sistemas não serão confiáveis!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;enquanto-ti-apenas-infraestrutura-nossos-sistemas&#x2F;)
@@ -30,7 +33,4 @@
 - :spiral_notepad: [Porque o Engenheiro Full Stack é tão problemático](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;why-the-full-stack-engineer-is-problematic&#x2F;)
 - :spiral_notepad: [5 competências não técnicas que todo SRE deve ter](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;sre-skills&#x2F;)
 - :spiral_notepad: [Como adotar SRE quando você não é o Google](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;how-to-adopt-an-sre-practice-when-youre-not-google&#x2F;)
-- :spiral_notepad: [Porque times de SRE precisam de product managers](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;what-is-an-sre-product-manager&#x2F;)
-- :spiral_notepad: [Começando um time de SRE do zero](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;starting-an-sre-team-from-scratch-quick-guide&#x2F;)
-- :spiral_notepad: [Matriz de priorização de incidentes: Entenda impacto x urgência](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;incident-response-incident-priority-matrix&#x2F;)
 <!--END_SECTION:feed-->
