@@ -3,6 +3,9 @@
 
 ## "Acompanhe os artigos do SREBrasil Notícias"
 <!--START_SECTION:feed-->
+- :spiral_notepad: [Informações indispensáveis no Dashboard SLIs](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;what-should-be-on-a-sli-dashboard&#x2F;)
+- :spiral_notepad: [Substituir Métricas e Logs por Eventos](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;observability-engineering-oreilly-book-2022&#x2F;)
+- :spiral_notepad: [AIOps - Seu melhor amigo](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;introducing-aiops-new-trend-repairing-software-issues&#x2F;)
 - :spiral_notepad: [Qual o papel da engenharia de observabilidade?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;what-observability-teams-do&#x2F;)
 - :spiral_notepad: [Resposta de Incidentes: Você não precisa saber tudo!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;sre-from-theory-to-practice-whats-difficult-about-on-call-discussion&#x2F;)
 - :spiral_notepad: [5 maneiras de prevenir um outage](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;5-ways-to-prevent-an-outage&#x2F;)
@@ -30,7 +33,4 @@
 - :spiral_notepad: [Redundância Sim! Mas para quais vulnerabilidades?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;redundancy&#x2F;)
 - :spiral_notepad: [Tecnologias emergentes essenciais para resposta de incidentes](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;new-technology-thats-essential-for-modern-incident-response&#x2F;)
 - :spiral_notepad: [Como integrar ferramentas para resposta de incidentes de segurança](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;incident-response-how-to-integrate-tools-for-modern-ir&#x2F;)
-- :spiral_notepad: [Porque o Engenheiro Full Stack é tão problemático](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;why-the-full-stack-engineer-is-problematic&#x2F;)
-- :spiral_notepad: [5 competências não técnicas que todo SRE deve ter](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;sre-skills&#x2F;)
-- :spiral_notepad: [Como adotar SRE quando você não é o Google](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;how-to-adopt-an-sre-practice-when-youre-not-google&#x2F;)
 <!--END_SECTION:feed-->
