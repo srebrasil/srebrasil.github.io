@@ -1,12 +1,12 @@
 ---
 layout: default
-permalink: /edicao8/ 
+permalink: /setembro2022/ 
 ---
 
 <div class="home py-4 py-md-5">
   <div class="row">
     {% for post in site.posts %}
-    {% if post.tag contains "Edição #8 -" %}   
+    {% if post.tag contains "09.2022" %}   
       <div class="col-12 col-md-6 col-lg-4">
        <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">
         <div class="card rounded overflow-hidden">  
