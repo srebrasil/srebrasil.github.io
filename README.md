@@ -3,6 +3,9 @@
 
 ## "Acompanhe os artigos do SREBrasil Notícias"
 <!--START_SECTION:feed-->
+- :spiral_notepad: [Observability do design a implementação | Caso de sucesso!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;observability-success-story-from-agile-squad-design-through-sre-implementation&#x2F;)
+- :spiral_notepad: [Observability | Conceitos que você deveria saber - Parte 2](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;observability-concepts-you-should-know-part-2&#x2F;)
+- :spiral_notepad: [Sistemas Adaptativos Complexos: uma cartilha para ITSM](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;complex-adaptive-systems-and-itsm&#x2F;)
 - :spiral_notepad: [Informações indispensáveis no Dashboard SLIs](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;what-should-be-on-a-sli-dashboard&#x2F;)
 - :spiral_notepad: [Substituir Métricas e Logs por Eventos](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;observability-engineering-oreilly-book-2022&#x2F;)
 - :spiral_notepad: [AIOps - Seu melhor amigo](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;introducing-aiops-new-trend-repairing-software-issues&#x2F;)
@@ -30,7 +33,4 @@
 - :spiral_notepad: [Porque runbooks são essenciais para SREs](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;keep-calm-and-use-the-runbook&#x2F;)
 - :spiral_notepad: [Alertas usando múltiplos fatores de queima de Error Budget com múltiplas janelas de observação](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;multiwindow-multi-burn-rate-alerts&#x2F;)
 - :spiral_notepad: [Devops é um fracasso](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;devops-is-a-failure&#x2F;)
-- :spiral_notepad: [Redundância Sim! Mas para quais vulnerabilidades?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;redundancy&#x2F;)
-- :spiral_notepad: [Tecnologias emergentes essenciais para resposta de incidentes](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;new-technology-thats-essential-for-modern-incident-response&#x2F;)
-- :spiral_notepad: [Como integrar ferramentas para resposta de incidentes de segurança](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;incident-response-how-to-integrate-tools-for-modern-ir&#x2F;)
 <!--END_SECTION:feed-->
