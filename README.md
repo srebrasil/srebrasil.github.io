@@ -3,6 +3,9 @@
 
 ## "Acompanhe os artigos do SREBrasil Notícias"
 <!--START_SECTION:feed-->
+- :spiral_notepad: [Porque os timelines de incidentes são fundamentais](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;why-you-need-incident-timelines&#x2F;)
+- :spiral_notepad: [Desmistificando Dashboards](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;getting-started-with-grafana-dashboard-design-amer&#x2F;)
+- :spiral_notepad: [Desbravando o Istio Service Mesh](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;aldry-albuquerque-istio&#x2F;)
 - :spiral_notepad: [Observability do design a implementação | Caso de sucesso!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;observability-success-story-from-agile-squad-design-through-sre-implementation&#x2F;)
 - :spiral_notepad: [Observability | Conceitos que você deveria saber - Parte 2](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;observability-concepts-you-should-know-part-2&#x2F;)
 - :spiral_notepad: [Sistemas Adaptativos Complexos: uma cartilha para ITSM](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;complex-adaptive-systems-and-itsm&#x2F;)
@@ -30,7 +33,4 @@
 - :spiral_notepad: [Sobre a importância de determinar as fronteiras e o ownership dos serviços de TI](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;standardize-service-ownership-at-scale&#x2F;)
 - :spiral_notepad: [Otimizar resposta de incidentes é fundamental. Porém não é o suficiente!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;otimizar-resposta-de-incidentes&#x2F;)
 - :spiral_notepad: [3 tendências que indicam a necessidade de melhorar a resposta de incidentes](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;3-shifts-driving-need-improved-incident-response&#x2F;)
-- :spiral_notepad: [Porque runbooks são essenciais para SREs](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;keep-calm-and-use-the-runbook&#x2F;)
-- :spiral_notepad: [Alertas usando múltiplos fatores de queima de Error Budget com múltiplas janelas de observação](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;multiwindow-multi-burn-rate-alerts&#x2F;)
-- :spiral_notepad: [Devops é um fracasso](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;devops-is-a-failure&#x2F;)
 <!--END_SECTION:feed-->
