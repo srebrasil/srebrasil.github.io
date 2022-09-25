@@ -3,6 +3,9 @@
 
 ## "Acompanhe os artigos do SREBrasil Notícias"
 <!--START_SECTION:feed-->
+- :spiral_notepad: [Você conhece Keptn?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;what-is-keptn-how-it-works-and-how-to-get-started&#x2F;)
+- :spiral_notepad: [Dicas para tornar o On-Call menos estressante](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;tips-to-make-your-on-call-process-less-stressful&#x2F;)
+- :spiral_notepad: [DevOps está morto! Vida longa a engenharia de plataforma](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;devops-is-dead-embrace-platform-engineering&#x2F;)
 - :spiral_notepad: [Porque os timelines de incidentes são fundamentais](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;why-you-need-incident-timelines&#x2F;)
 - :spiral_notepad: [Desmistificando Dashboards](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;getting-started-with-grafana-dashboard-design-amer&#x2F;)
 - :spiral_notepad: [Desbravando o Istio Service Mesh](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;aldry-albuquerque-istio&#x2F;)
@@ -30,7 +33,4 @@
 - :spiral_notepad: [Observability | Conceitos que você deve conhecer](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;observability-concepts-you-should-know&#x2F;)
 - :spiral_notepad: [Profissionais de TI: Especialista ou Cientista?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;learn-systems-by-changing&#x2F;)
 - :spiral_notepad: [Cloud-native virou padrão! E agora?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;Cloud-native-modernization-is-on-the-rise&#x2F;)
-- :spiral_notepad: [Sobre a importância de determinar as fronteiras e o ownership dos serviços de TI](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;standardize-service-ownership-at-scale&#x2F;)
-- :spiral_notepad: [Otimizar resposta de incidentes é fundamental. Porém não é o suficiente!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;otimizar-resposta-de-incidentes&#x2F;)
-- :spiral_notepad: [3 tendências que indicam a necessidade de melhorar a resposta de incidentes](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;3-shifts-driving-need-improved-incident-response&#x2F;)
 <!--END_SECTION:feed-->
