@@ -3,6 +3,9 @@
 
 ## "Acompanhe os artigos do SREBrasil Notícias"
 <!--START_SECTION:feed-->
+- :spiral_notepad: [Os desafios de detectar problemas](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;whats-difficult-about-problem-detection-three-key-takeaways&#x2F;)
+- :spiral_notepad: [Application Performance é importante, mas e quanto a eficiência na utilização dos recursos de TI?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;the-application-performance-is-good-but-what-about-efficiency&#x2F;)
+- :spiral_notepad: [Abrace a Engenharia de Caos](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;tabletop-exercises-for-engineering-teams&#x2F;)
 - :spiral_notepad: [Você conhece Keptn?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;what-is-keptn-how-it-works-and-how-to-get-started&#x2F;)
 - :spiral_notepad: [Dicas para tornar o On-Call menos estressante](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;tips-to-make-your-on-call-process-less-stressful&#x2F;)
 - :spiral_notepad: [DevOps está morto! Vida longa a engenharia de plataforma](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;devops-is-dead-embrace-platform-engineering&#x2F;)
@@ -30,7 +33,4 @@
 - :spiral_notepad: [Desafios não óbvios para adotar Canary Releases](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;when-to-kill-the-canary&#x2F;)
 - :spiral_notepad: [AIOps: Além da monitoração com utilização de técnicas estatísticas](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;machine-learning-vs-aiops-battle-for-better-answers-and-automation&#x2F;)
 - :spiral_notepad: [3 erros que cometi no início de um incidente (e como evitá-los)](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;3-mistakes-ive-made-at-the-beginning-of-an-incident-and-how-not-to-make-them&#x2F;)
-- :spiral_notepad: [Observability | Conceitos que você deve conhecer](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;observability-concepts-you-should-know&#x2F;)
-- :spiral_notepad: [Profissionais de TI: Especialista ou Cientista?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;learn-systems-by-changing&#x2F;)
-- :spiral_notepad: [Cloud-native virou padrão! E agora?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;Cloud-native-modernization-is-on-the-rise&#x2F;)
 <!--END_SECTION:feed-->
