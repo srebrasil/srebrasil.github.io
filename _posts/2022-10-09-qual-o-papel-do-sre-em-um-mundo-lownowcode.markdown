@@ -1,11 +1,11 @@
 ---
 layout: post 
-title:  "🚨 Qual o papel do SRE em um mundo {low,now}Code? 🚨"
+title:  "Qual o papel do SRE em um mundo {low,now}Code?"
 date:   2022–10-09 08:00:00 -0300 --->
 published: true
 tag: "Edição #31 - 10.10.2022"
-headline: "🚨 Qual o papel do SRE em um mundo {low,now}Code? 🚨"
-highlight_title: "🚨 Qual o papel do SRE em um mundo {low,now}Code? 🚨"
+headline: "Qual o papel do SRE em um mundo {low,now}Code?"
+highlight_title: "Qual o papel do SRE em um mundo {low,now}Code?"
 highlight_url: "https://www.linkedin.com/pulse/qual-o-papel-do-sre-em-um-mundo-lownowcode-ricardo-coelho-de-sousa/?trackingId=LGQNdOCGrEd9Qg7CEnHoYA%3D%3D"
 highlight_autor: "Ricardo Coelho de Sousa"
 image: /images/lowcode.png
