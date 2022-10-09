@@ -3,6 +3,9 @@
 
 ## "Acompanhe os artigos do SREBrasil Notícias"
 <!--START_SECTION:feed-->
+- :spiral_notepad: [A importancia da monitoração sintética](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;top-7-reasons-to-use-synthetic-monitoring&#x2F;)
+- :spiral_notepad: [Qual o papel do SRE em um mundo {low,now}Code?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;qual-o-papel-do-sre-em-um-mundo-lownowcode&#x2F;)
+- :spiral_notepad: [Aprendendo com o DevOps: por que sistemas complexos precisam de um novo pensamento de ITSM](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;learning-from-devops-why-complex-systems-necessitate-new-itsm-thinking&#x2F;)
 - :spiral_notepad: [Os desafios de detectar problemas](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;whats-difficult-about-problem-detection-three-key-takeaways&#x2F;)
 - :spiral_notepad: [Application Performance é importante, mas e quanto a eficiência na utilização dos recursos de TI?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;the-application-performance-is-good-but-what-about-efficiency&#x2F;)
 - :spiral_notepad: [Abrace a Engenharia de Caos](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;tabletop-exercises-for-engineering-teams&#x2F;)
@@ -30,7 +33,4 @@
 - :spiral_notepad: [O Estado do SRE em 2022](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;state-of-sre-2022&#x2F;)
 - :spiral_notepad: [12 maneiras de melhorar seu monolito antes de fazer a transição para microsserviços](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;monolith-microservices&#x2F;)
 - :spiral_notepad: [Você está obtendo o máximo de sua nuvem híbrida?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;forrester-hybrid-cloud&#x2F;)
-- :spiral_notepad: [Desafios não óbvios para adotar Canary Releases](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;when-to-kill-the-canary&#x2F;)
-- :spiral_notepad: [AIOps: Além da monitoração com utilização de técnicas estatísticas](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;machine-learning-vs-aiops-battle-for-better-answers-and-automation&#x2F;)
-- :spiral_notepad: [3 erros que cometi no início de um incidente (e como evitá-los)](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;3-mistakes-ive-made-at-the-beginning-of-an-incident-and-how-not-to-make-them&#x2F;)
 <!--END_SECTION:feed-->
