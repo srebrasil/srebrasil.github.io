@@ -1,7 +1,7 @@
 ---
 layout: post 
 title:  "Qual o papel do SRE em um mundo {low,now}Code?"
-date:   2022–10-09 08:00:00 -0300 --->
+date:   2022-10-09 08:00:00 -0300 --->
 published: true
 tag: "Edição #31 - 10.10.2022"
 headline: "Qual o papel do SRE em um mundo {low,now}Code?"
