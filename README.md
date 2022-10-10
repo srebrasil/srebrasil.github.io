@@ -4,7 +4,7 @@
 ## "Acompanhe os artigos do SREBrasil Notícias"
 <!--START_SECTION:feed-->
 - :spiral_notepad: [A importancia da monitoração sintética](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;top-7-reasons-to-use-synthetic-monitoring&#x2F;)
-- :spiral_notepad: [Qual o papel do SRE em um mundo {low,now}Code?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;qual-o-papel-do-sre-em-um-mundo-lownowcode&#x2F;)
+- :spiral_notepad: [Qual o papel do SRE em um mundo {low,no}Code?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;qual-o-papel-do-sre-em-um-mundo-lownowcode&#x2F;)
 - :spiral_notepad: [Aprendendo com o DevOps: por que sistemas complexos precisam de um novo pensamento de ITSM](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;learning-from-devops-why-complex-systems-necessitate-new-itsm-thinking&#x2F;)
 - :spiral_notepad: [Os desafios de detectar problemas](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;whats-difficult-about-problem-detection-three-key-takeaways&#x2F;)
 - :spiral_notepad: [Application Performance é importante, mas e quanto a eficiência na utilização dos recursos de TI?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;the-application-performance-is-good-but-what-about-efficiency&#x2F;)
