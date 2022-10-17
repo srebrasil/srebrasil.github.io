@@ -3,6 +3,9 @@
 
 ## "Acompanhe os artigos do SREBrasil Notícias"
 <!--START_SECTION:feed-->
+- :spiral_notepad: [Os três pilares de uma ótima resposta a incidentes](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;three-pillars-of-great-incident-response&#x2F;)
+- :spiral_notepad: [SREs embarcados nos times: Prós e contras](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;the-pros-and-cons-of-embedded-sres&#x2F;)
+- :spiral_notepad: [Declare cedo, declare com frequência: por que você não deve hesitar em registrar um incidente](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;declare-early-declare-often&#x2F;)
 - :spiral_notepad: [A importancia da monitoração sintética](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;top-7-reasons-to-use-synthetic-monitoring&#x2F;)
 - :spiral_notepad: [Qual o papel do SRE em um mundo {low,no}Code?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;qual-o-papel-do-sre-em-um-mundo-lownowcode&#x2F;)
 - :spiral_notepad: [Aprendendo com o DevOps: por que sistemas complexos precisam de um novo pensamento de ITSM](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;learning-from-devops-why-complex-systems-necessitate-new-itsm-thinking&#x2F;)
@@ -30,7 +33,4 @@
 - :spiral_notepad: [Porque implementar observabilidade no design](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;why-observability-is-shifting-left&#x2F;)
 - :spiral_notepad: [Porque não existe observability sem teoria](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;no-observability-without-theory&#x2F;)
 - :spiral_notepad: [SRE: Apenas operações com outro nome?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;is-sre-just-ops-with-a-new-name&#x2F;)
-- :spiral_notepad: [O Estado do SRE em 2022](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;state-of-sre-2022&#x2F;)
-- :spiral_notepad: [12 maneiras de melhorar seu monolito antes de fazer a transição para microsserviços](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;monolith-microservices&#x2F;)
-- :spiral_notepad: [Você está obtendo o máximo de sua nuvem híbrida?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;forrester-hybrid-cloud&#x2F;)
 <!--END_SECTION:feed-->
