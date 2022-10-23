@@ -1,7 +1,7 @@
 ---
 layout: post 
 title:  "Porque investir em SRE não é opcional"
-date:   2022-10-24 08:00:00 -0300 --->
+date:   2022-10-23 08:00:00 -0300 --->
 published: true
 tag: "Edição #33 - 24.10.2022"
 headline: "Porque investir em SRE não é opcional"
