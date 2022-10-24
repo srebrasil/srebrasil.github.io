@@ -3,6 +3,8 @@
 
 ## "Acompanhe os artigos do SREBrasil Notícias"
 <!--START_SECTION:feed-->
+- :spiral_notepad: [Você se lembrou de monitorar seu ambiente de dev&#x2F;stg](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;voce-se-lembrou-de-monitorar-seu-ambiente-de-dev-stg&#x2F;)
+- :spiral_notepad: [Porque investir em SRE não é opcional](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;porque-investir-em-sre-nao-e-opcional-3-argumentos-de-ricardo&#x2F;)
 - :spiral_notepad: [Os três pilares de uma ótima resposta a incidentes](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;three-pillars-of-great-incident-response&#x2F;)
 - :spiral_notepad: [SREs embarcados nos times: Prós e contras](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;the-pros-and-cons-of-embedded-sres&#x2F;)
 - :spiral_notepad: [Declare cedo, declare com frequência: por que você não deve hesitar em registrar um incidente](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;declare-early-declare-often&#x2F;)
@@ -31,6 +33,4 @@
 - :spiral_notepad: [Quando reduzir o MTTR não deve ser o foco!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;mttr-lower-isnt-always-better&#x2F;)
 - :spiral_notepad: [Enquanto TI for APENAS infraestrutura, nossos sistemas não serão confiáveis!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;enquanto-ti-apenas-infraestrutura-nossos-sistemas&#x2F;)
 - :spiral_notepad: [Porque implementar observabilidade no design](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;why-observability-is-shifting-left&#x2F;)
-- :spiral_notepad: [Porque não existe observability sem teoria](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;no-observability-without-theory&#x2F;)
-- :spiral_notepad: [SRE: Apenas operações com outro nome?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;is-sre-just-ops-with-a-new-name&#x2F;)
 <!--END_SECTION:feed-->
