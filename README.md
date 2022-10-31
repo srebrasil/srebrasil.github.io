@@ -3,6 +3,9 @@
 
 ## "Acompanhe os artigos do SREBrasil Notícias"
 <!--START_SECTION:feed-->
+- :spiral_notepad: [Você conhece o Prometheus? Confere esse curso (aberto)!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;prometheus-curso-monitoring&#x2F;)
+- :spiral_notepad: [Porque intuição não é suficiente para tomar decisões atualmente](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;porque-investir-em-sre-nao-e-opcional&#x2F;)
+- :spiral_notepad: [Você sabe implementar estrategia de caching? Esse lab te ensina!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;nginx-cache-labs&#x2F;)
 - :spiral_notepad: [Você se lembrou de monitorar seu ambiente de dev&#x2F;stg](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;voce-se-lembrou-de-monitorar-seu-ambiente-de-dev-stg&#x2F;)
 - :spiral_notepad: [Porque investir em SRE não é opcional](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;porque-investir-em-sre-nao-e-opcional-3-argumentos-de-ricardo&#x2F;)
 - :spiral_notepad: [Os três pilares de uma ótima resposta a incidentes](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;three-pillars-of-great-incident-response&#x2F;)
@@ -30,7 +33,4 @@
 - :spiral_notepad: [Resposta de Incidentes: Você não precisa saber tudo!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;sre-from-theory-to-practice-whats-difficult-about-on-call-discussion&#x2F;)
 - :spiral_notepad: [5 maneiras de prevenir um outage](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;5-ways-to-prevent-an-outage&#x2F;)
 - :spiral_notepad: [Porque SRE é fundamental para transformação digital](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;new-report-details-impact-site-reliability-engineering-itops&#x2F;)
-- :spiral_notepad: [Quando reduzir o MTTR não deve ser o foco!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;mttr-lower-isnt-always-better&#x2F;)
-- :spiral_notepad: [Enquanto TI for APENAS infraestrutura, nossos sistemas não serão confiáveis!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;enquanto-ti-apenas-infraestrutura-nossos-sistemas&#x2F;)
-- :spiral_notepad: [Porque implementar observabilidade no design](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;why-observability-is-shifting-left&#x2F;)
 <!--END_SECTION:feed-->
