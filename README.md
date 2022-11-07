@@ -3,6 +3,8 @@
 
 ## "Acompanhe os artigos do SREBrasil Notícias"
 <!--START_SECTION:feed-->
+- :spiral_notepad: [Como os engenheiros da Meta resolvem problemas de escala](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;how-meta-production-engineers-solve-the-problem-of-scale&#x2F;)
+- :spiral_notepad: [Crie alertas baseados no que realmente importa!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;actionable-slos-based-matters-most&#x2F;)
 - :spiral_notepad: [Você conhece o Prometheus? Confere esse curso (aberto)!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;prometheus-curso-monitoring&#x2F;)
 - :spiral_notepad: [Porque intuição não é suficiente para tomar decisões atualmente](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;porque-investir-em-sre-nao-e-opcional&#x2F;)
 - :spiral_notepad: [Você sabe implementar estrategia de caching? Esse lab te ensina!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;nginx-cache-labs&#x2F;)
@@ -31,6 +33,4 @@
 - :spiral_notepad: [AIOps - Seu melhor amigo](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;introducing-aiops-new-trend-repairing-software-issues&#x2F;)
 - :spiral_notepad: [Qual o papel da engenharia de observabilidade?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;what-observability-teams-do&#x2F;)
 - :spiral_notepad: [Resposta de Incidentes: Você não precisa saber tudo!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;sre-from-theory-to-practice-whats-difficult-about-on-call-discussion&#x2F;)
-- :spiral_notepad: [5 maneiras de prevenir um outage](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;5-ways-to-prevent-an-outage&#x2F;)
-- :spiral_notepad: [Porque SRE é fundamental para transformação digital](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;new-report-details-impact-site-reliability-engineering-itops&#x2F;)
 <!--END_SECTION:feed-->
