@@ -3,6 +3,8 @@
 
 ## "Acompanhe os artigos do SREBrasil Notícias"
 <!--START_SECTION:feed-->
+- :spiral_notepad: [Design de observabilidade para suportar a estratégia de cloud híbrida](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;producing-observability-design-to-support-a-hybrid-cloud-strategy&#x2F;)
+- :spiral_notepad: [Adeus SRE, bem-vinda Engenharia de Inovação!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;adeus-sre-bem-vinda-engenharia-de-inova%C3%A7%C3%A3o&#x2F;)
 - :spiral_notepad: [Como os engenheiros da Meta resolvem problemas de escala](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;how-meta-production-engineers-solve-the-problem-of-scale&#x2F;)
 - :spiral_notepad: [Crie alertas baseados no que realmente importa!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;actionable-slos-based-matters-most&#x2F;)
 - :spiral_notepad: [Você conhece o Prometheus? Confere esse curso (aberto)!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;prometheus-curso-monitoring&#x2F;)
@@ -31,6 +33,4 @@
 - :spiral_notepad: [Informações indispensáveis no Dashboard SLIs](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;what-should-be-on-a-sli-dashboard&#x2F;)
 - :spiral_notepad: [Substituir Métricas e Logs por Eventos](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;observability-engineering-oreilly-book-2022&#x2F;)
 - :spiral_notepad: [AIOps - Seu melhor amigo](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;introducing-aiops-new-trend-repairing-software-issues&#x2F;)
-- :spiral_notepad: [Qual o papel da engenharia de observabilidade?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;what-observability-teams-do&#x2F;)
-- :spiral_notepad: [Resposta de Incidentes: Você não precisa saber tudo!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;sre-from-theory-to-practice-whats-difficult-about-on-call-discussion&#x2F;)
 <!--END_SECTION:feed-->
