@@ -3,6 +3,8 @@
 
 ## "Acompanhe os artigos do SREBrasil Notícias"
 <!--START_SECTION:feed-->
+- :spiral_notepad: [Porque sistemas não devem ficar 100% ocupados](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;the-most-important-thing-to-understand-about-queues&#x2F;)
+- :spiral_notepad: [Engenharia do Caos: Por onde começar?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;engenharia-do-caos-por-onde-comecar&#x2F;)
 - :spiral_notepad: [Design de observabilidade para suportar a estratégia de cloud híbrida](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;producing-observability-design-to-support-a-hybrid-cloud-strategy&#x2F;)
 - :spiral_notepad: [Adeus SRE, bem-vinda Engenharia de Inovação!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;adeus-sre-bem-vinda-engenharia-de-inova%C3%A7%C3%A3o&#x2F;)
 - :spiral_notepad: [Como os engenheiros da Meta resolvem problemas de escala](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;how-meta-production-engineers-solve-the-problem-of-scale&#x2F;)
@@ -31,6 +33,4 @@
 - :spiral_notepad: [Observability | Conceitos que você deveria saber - Parte 2](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;observability-concepts-you-should-know-part-2&#x2F;)
 - :spiral_notepad: [Sistemas Adaptativos Complexos: uma cartilha para ITSM](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;complex-adaptive-systems-and-itsm&#x2F;)
 - :spiral_notepad: [Informações indispensáveis no Dashboard SLIs](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;what-should-be-on-a-sli-dashboard&#x2F;)
-- :spiral_notepad: [Substituir Métricas e Logs por Eventos](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;observability-engineering-oreilly-book-2022&#x2F;)
-- :spiral_notepad: [AIOps - Seu melhor amigo](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;introducing-aiops-new-trend-repairing-software-issues&#x2F;)
 <!--END_SECTION:feed-->
