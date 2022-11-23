@@ -1,0 +1,23 @@
+---
+layout: post 
+title:  "Principais lições do 2023 SRE Report (Catchpoint)"
+date:   2022-11-23 08:00:00 -0300 --->
+published: true
+tag: "Edição #38 - 28.11.2022"
+headline: "Principais lições do 2023 SRE Report (Catchpoint)"
+highlight_title: "2023 SRE Report"
+highlight_url: "https://www.catchpoint.com/asset/2023-sre-report"
+highlight_autor: "Catchpoint"
+image: /images/catchpoint_report_2023_post.png
+comentado_por: "Danne Aguiar"
+comentado_por_linkedin: "https://www.linkedin.com/in/dannemca/"
+---
+Como será que anda a adoção e maturidade das organizações que decidiram abraçar o SRE?
+Nesse report promovido pela Catchpoint, conhecemos um pouco mais dos desafios e melhores práticas adotadas por diversas companhias ao redor do mundo.
+Tópicos chaves:
+- Abraçar a cultura tem um peso enorme no sucesso das empresas.
+- Quanto mais madura a adoção do SRE, maior o foco na experiência do usuário.
+- Inovar é preciso e necessário.
+- Não fique preso a uma única ferramenta, mantenha seu portifólio agnóstico e não tenha medo de possuir um cardápio vasto.
+
+Leia na integra [aqui](https://www.catchpoint.com/asset/2023-sre-report)
