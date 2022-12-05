@@ -3,6 +3,8 @@
 
 ## "Acompanhe os artigos do SREBrasil Notícias"
 <!--START_SECTION:feed-->
+- :spiral_notepad: [Porque AIOps requer um novo modelo para gerenciar ativos de TI](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;the-rise-of-aiops-is-raising-the-bar-for-cyber-asset-management&#x2F;)
+- :spiral_notepad: [Principais lições do 2023 SRE Report (Catchpoint)](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;2023-sre-report&#x2F;)
 - :spiral_notepad: [Qual o significado de Observability para Operação de Cloud](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;what-observability-means-for-cloud-operations&#x2F;)
 - :spiral_notepad: [Dependendo da escala, o improvável acontece toda hora!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;what-a-broken-wheel-taught-google-site-reliability-engineers&#x2F;)
 - :spiral_notepad: [Porque sistemas não devem ficar 100% ocupados](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;the-most-important-thing-to-understand-about-queues&#x2F;)
@@ -31,6 +33,4 @@
 - :spiral_notepad: [Porque os timelines de incidentes são fundamentais](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;why-you-need-incident-timelines&#x2F;)
 - :spiral_notepad: [Desmistificando Dashboards](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;getting-started-with-grafana-dashboard-design-amer&#x2F;)
 - :spiral_notepad: [Desbravando o Istio Service Mesh](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;aldry-albuquerque-istio&#x2F;)
-- :spiral_notepad: [Observability do design a implementação | Caso de sucesso!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;observability-success-story-from-agile-squad-design-through-sre-implementation&#x2F;)
-- :spiral_notepad: [Observability | Conceitos que você deveria saber - Parte 2](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;observability-concepts-you-should-know-part-2&#x2F;)
 <!--END_SECTION:feed-->
