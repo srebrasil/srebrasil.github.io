@@ -3,7 +3,9 @@
 
 ## "Acompanhe os artigos do SREBrasil Notícias"
 <!--START_SECTION:feed-->
+- :spiral_notepad: [AIOps aplicado a infraestrutura de armazenamento](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;leveraging-aiops-at-the-storage-layer-to-improve-it-focus-on-business-not-technology&#x2F;)
 - :spiral_notepad: [Porque AIOps requer um novo modelo para gerenciar ativos de TI](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;the-rise-of-aiops-is-raising-the-bar-for-cyber-asset-management&#x2F;)
+- :spiral_notepad: [Evolução de AIOps: Que problemas esperamos resolver?](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;cloud-intelligence-aiops-infusing-ai-into-cloud-computing-systems&#x2F;)
 - :spiral_notepad: [Principais lições do 2023 SRE Report (Catchpoint)](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;2023-sre-report&#x2F;)
 - :spiral_notepad: [Qual o significado de Observability para Operação de Cloud](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;what-observability-means-for-cloud-operations&#x2F;)
 - :spiral_notepad: [Dependendo da escala, o improvável acontece toda hora!](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;what-a-broken-wheel-taught-google-site-reliability-engineers&#x2F;)
@@ -31,6 +33,4 @@
 - :spiral_notepad: [Dicas para tornar o On-Call menos estressante](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;tips-to-make-your-on-call-process-less-stressful&#x2F;)
 - :spiral_notepad: [DevOps está morto! Vida longa a engenharia de plataforma](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;devops-is-dead-embrace-platform-engineering&#x2F;)
 - :spiral_notepad: [Porque os timelines de incidentes são fundamentais](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;why-you-need-incident-timelines&#x2F;)
-- :spiral_notepad: [Desmistificando Dashboards](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;getting-started-with-grafana-dashboard-design-amer&#x2F;)
-- :spiral_notepad: [Desbravando o Istio Service Mesh](http:&#x2F;&#x2F;destaque.srebrasil.com&#x2F;aldry-albuquerque-istio&#x2F;)
 <!--END_SECTION:feed-->
